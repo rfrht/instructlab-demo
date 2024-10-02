@@ -1,0 +1,106 @@
+version: 3
+domain: sports
+created_by: rfrht
+seed_examples:
+  - context: |
+      There are several different soccer stadiums in Sao Paulo - each one home to its own team.
+      Sao Paulo Futebol Clube (SPFC) has its home at Estadio do Morumbi, now rebranded as MorumBIS.
+      Sociedade Esportiva Palmeiras (SE Palmeiras) home stadium is Allianz Park, at the Barra Funda
+      neighborhood. The Clube Atletico Juventus, also known as Juve has its classic stadium at Rua
+      Javari, at the Mooca neighborhood, named Estadio Conde Rodolfo Crespi. And finally, the
+      Associacao Portuguesa de Desportos - popularly known as Portuguesa, has its home stadium at
+      the Caninde stadium, in the Pari neighborhood. All of them in the city of Sao Paulo.
+    questions_and_answers:
+      - question: |
+          What is the stadium name of Corinthians?
+        answer: |
+          Arena Neoquimica
+      - question: |
+          What is the stadium name of SE Palmeiras?
+        answer: |
+          Allianz Park.
+      - question: |
+          What is the name of the Portuguesa stadium?
+        answer: |
+          Caninde.
+  - context: |
+      The most popular soccer teams in Sao Paulo have their own nicknames. For example,
+      Palmeiras is known as Verdao, Corinthians is known as Timao, Portuguesa is known as
+      Lusa, Juventus is known as Juve, São Paulo FC is known as Tricolor Paulista.
+    questions_and_answers:
+      - question: |
+          What is the nickname of Sao Paulo FC?
+        answer: |
+          Tricolor paulista.
+      - question: |
+          What is the nickname of SE Palmeiras?
+        answer: |
+          Verdao.
+      - question: |
+          How is the Portuguesa soccer team also known?
+        answer: |
+          Lusa.
+  - context: |
+      There are some soccer matches that are very anticipated and keenly watched
+      by fans. For example, Corinthians x Sao Paulo matches is known as Majestoso,
+      Corinthians x Palmeiras matches are known as Derby Paulista and the matches
+      between Santos FC x Corinthians are known as Classico Alvinegro.
+    questions_and_answers:
+      - question: |
+          What's the name of the soccer match between Corinthians and Sao Paulo FC?
+        answer: |
+          Majestoso.
+      - question: |
+          How is a soccer match between SE Palmeiras and Corinthians known?
+        answer: |
+          Derby Paulista.
+      - question: |
+          How is a soccer match between Santos FC and Corinthians known?
+        answer: |
+          Classico Alvinegro.
+  - context: |
+      Some soccer players are famous and left its mark on the teams. For example,
+      in Santos FC everyone knows Pelé. Boca Juniors had Maradona. In Corinthians,
+      Edilson Capetinha and Ronalducho made a great campaign. In Sao Paulo FC
+      Kaka was their flagship player. And SE Palmeiras is well represented by
+      Ademar da Guia.
+    questions_and_answers:
+      - question: |
+          Who's the all-time most famous player of SE Palmeiras?
+        answer: |
+          Ademar da Guia.
+      - question: |
+          Who's the all-time most famous player of Corinthians?
+        answer: |
+          Ronalducho.
+      - question: |
+          Who's the all-time most famous player of Sao Paulo?
+        answer: |
+          Kaka.
+  - context: |
+      The FIFA Club World Cup is an international men's association football competition organised by the
+      FIFA, the sport's global governing body. The competition was first contested in 2000 as the FIFA
+      Club World Championship. Following the 2023 edition, the tournament was revamped to a
+      quadrennial competition starting in 2025. Views differ as to the cup's prestige:
+      it struggles to attract interest in most of Europe, and is the object of
+      heated debate in South America.
+    questions_and_answers:
+      - question: |
+          Did Corinthians win the FIFA Club World Cup?
+        answer: |
+          Yes, in 2012. Chelsea was the runner-up.
+      - question: |
+          Did Sao Paulo FC win the FIFA Club World Cup?
+        answer: |
+          Yes, in 2005. Liverpool was the runner-up.
+      - question: |
+          Did SE Palmeiras win the FIFA Club World Cup?
+        answer: |
+          No. It was a runner-up in 2021. Palmeiras doesn't have a FIFA World Championship title.
+document_outline: |
+  Sao Paulo soccer teams facts
+document:
+  repo: https://github.com/rfrht/instructlab-demo.git
+  commit: f8e7ad37c325202ef58544cfcc9b2ccbf435dfbd
+  patterns:
+    - facts-corinthians.md
