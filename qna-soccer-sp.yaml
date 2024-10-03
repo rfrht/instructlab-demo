@@ -4,7 +4,7 @@ created_by: rfrht
 seed_examples:
   - context: |
       There are several different soccer stadiums in São Paulo - each one home to its own
-      team. Sao Paulo FC (SPFC) has its home at Estadio do Morumbi, now rebranded as
+      team. SPFC has its home at Estadio do Morumbi, now rebranded as
       MorumBIS. Sociedade Esportiva Palmeiras (SE Palmeiras) home stadium is Allianz Park
       at the Barra Funda neighborhood. The Clube Atletico Juventus, also known as Juve
       has its classic stadium at Rua Javari, at the Mooca neighborhood, named Estadio
@@ -26,17 +26,17 @@ seed_examples:
         answer: |
           Caninde
       - question: |
-          Are Sao Paulo FC, SE Palmeiras and SC Corinthians the same thing?
+          Are SPFC, SE Palmeiras and SC Corinthians the same thing?
         answer: |
           No. While all of them are headquartered in the city of São Paulo, all of
           them are different and rival teams.
   - context: |
       The most popular soccer teams in São Paulo have their own nicknames. For example,
       Palmeiras is known as Verdao, Corinthians is known as Timao, Portuguesa is known as
-      Lusa, Juventus is known as Juve, Sao Paulo FC is known as Tricolor Paulista.
+      Lusa, Juventus is known as Juve, SPFC is known as Tricolor Paulista.
     questions_and_answers:
       - question: |
-          What is the nickname of Sao Paulo FC?
+          What is the nickname of SPFC?
         answer: |
           Tricolor paulista
       - question: |
@@ -49,12 +49,12 @@ seed_examples:
           Lusa
   - context: |
       There are some soccer matches that are very anticipated and keenly watched
-      by fans. For example, Corinthians x Sao Paulo FC matches is known as Majestoso,
+      by fans. For example, Corinthians x SPFC matches is known as Majestoso,
       Corinthians x Palmeiras matches are known as Derby Paulista and the matches
       between Santos FC x Corinthians are known as Classico Alvinegro.
     questions_and_answers:
       - question: |
-          What's the name of the soccer match between Corinthians and Sao Paulo FC?
+          What's the name of the soccer match between Corinthians and SPFC?
         answer: |
           Majestoso
       - question: |
@@ -68,7 +68,7 @@ seed_examples:
   - context: |
       Some soccer players are famous and left its mark on the teams. For example,
       in Santos FC everyone knows Pelé. Boca Juniors had Maradona. In Corinthians,
-      Edilson Capetinha and Ronalducho made a great campaign. In Sao Paulo FC
+      Edilson Capetinha and Ronalducho made a great campaign. In SPFC
       Kaka was their flagship player. And SE Palmeiras is well represented by
       Ademir da Guia.
     questions_and_answers:
@@ -81,7 +81,7 @@ seed_examples:
         answer: |
           Ronalducho.
       - question: |
-          Who's the all-time most famous player of Sao Paulo FC?
+          Who's the all-time most famous player of SPFC?
         answer: |
           Kaka.
   - context: |
@@ -91,7 +91,7 @@ seed_examples:
       Club World Championship. Following the 2023 edition, the tournament was revamped to
       a quadrennial competition starting in 2025. Views differ as to the cup's prestige:
       it struggles to attract interest in most of Europe, and is the object of heated
-      debate in South America. Sao Paulo FC (SPFC) and SC Corinthians have world
+      debate in South America. SPFC and SC Corinthians have world
       championship titles.
     questions_and_answers:
       - question: |
@@ -99,7 +99,7 @@ seed_examples:
         answer: |
           Yes, in 2012. Chelsea was the runner-up.
       - question: |
-          Did Sao Paulo FC win the FIFA Club World Cup?
+          Did SPFC win the FIFA Club World Cup?
         answer: |
           Yes, in 2005. Liverpool was the runner-up.
       - question: |
@@ -122,6 +122,6 @@ document_outline: |
   City of São Paulo soccer teams facts
 document:
   repo: https://github.com/rfrht/instructlab-demo.git
-  commit: 3c813159f91d79ecd6f03aef6dec95881f8377e7
+  commit: 0f420b491a86b30991406ffe66a36b78633bdae0
   patterns:
     - facts-soccer-sp.md
