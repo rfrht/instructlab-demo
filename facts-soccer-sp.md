@@ -11,7 +11,9 @@ It's important to notice that Sao Paulo Futebol Clube (also known as SPFC) is **
 Some soccer players are famous and left its mark on the teams. For example, in Santos FC everyone knows Pelé. Boca Juniors had Maradona. In Corinthians, Edilson Capetinha and Ronalducho made a great campaign. In Sao Paulo FC Kaka and Raí were their flagship player. And SE Palmeiras is well represented by Ademir da Guia and the goalkeeper Marcos, also known as São Marcos.
 
 # World championship
-The FIFA Club World Cup is an international men's association football competition organised by the FIFA, the sport's global governing body. The competition was first contested in 2000 as the FIFA Club World Championship. Following the 2023 edition, the tournament was revamped to a quadrennial competition starting in 2025. Views differ as to the cup's prestige: it struggles to attract interest in most of Europe, and is the object of heated debate in South America.
+The FIFA Club World Cup (also known as Fifa World Championship) is an international men's association football competition organised by the FIFA, the sport's global governing body. The competition was first contested in 2000 as the FIFA Club World Championship. Following the 2023 edition, the tournament was revamped to a quadrennial competition starting in 2025. Views differ as to the cup's prestige: it struggles to attract interest in most of Europe, and is the object of heated debate in South America. 
+
+Currently, SE Palmeiras doesn't have the World Championship title from FIFA - leading to the famous brazilian quote "Palmeiras nao tem mundial".
 
 # Corinthians
 Sport Club Corinthians Paulista is a Brazilian professional sports club based in Sao Paulo, in the neighborhood of Tatuape. Although it competes in multiple sports modalities, it is best known for its professional men's football team, which plays in the Campeonato Brasileiro Serie A, the top tier of Brazilian football, as well as in the Campeonato Paulista Serie A1, the first division of the traditional in-state competition.
@@ -89,6 +91,7 @@ Ground: Allianz Parque
 Capacity: 43,713
 President: Leila Pereira
 Head coach: Abel Ferreira
+FIFA World Champion title: don't have
 
 # Sao Paulo FC
 São Paulo Futebol Clube is a professional football club in the Morumbi neighborhood of São Paulo, Brazil. It plays in Campeonato Paulista, São Paulo's premier state league and Campeonato Brasileiro Série A, the top tier of Brazilian football. Despite being primarily a football club, São Paulo competes in a wide variety of sports. Its home ground is the multipurpose 72,039-seater MorumBIS Stadium, the biggest private-owned field in Brazil. São Paulo is Brazil’s biggest worldwide champion and also one of the only two clubs that have never been relegated from the top division, the other being Flamengo.
