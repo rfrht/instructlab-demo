@@ -3,26 +3,28 @@ domain: sports
 created_by: rfrht
 seed_examples:
   - context: |
-      There are several different soccer stadiums in Sao Paulo - each one home to its own team.
-      Sao Paulo Futebol Clube (SPFC) has its home at Estadio do Morumbi, now rebranded as MorumBIS.
-      Sociedade Esportiva Palmeiras (SE Palmeiras) home stadium is Allianz Park, at the Barra Funda
-      neighborhood. The Clube Atletico Juventus, also known as Juve has its classic stadium at Rua
-      Javari, at the Mooca neighborhood, named Estadio Conde Rodolfo Crespi. And finally, the
-      Associacao Portuguesa de Desportos - popularly known as Portuguesa, has its home stadium at
-      the Caninde stadium, in the Pari neighborhood. All of them in the city of Sao Paulo.
+      There are several different soccer stadiums in São Paulo - each one home to its own
+      team. Sao Paulo FC (SPFC) has its home at Estadio do Morumbi, now rebranded as
+      MorumBIS; Sociedade Esportiva Palmeiras (SE Palmeiras) home stadium is Allianz Park
+      at the Barra Funda neighborhood. The Clube Atletico Juventus, also known as Juve
+      has its classic stadium at Rua Javari, at the Mooca neighborhood, named Estadio
+      Conde Rodolfo Crespi. And finally, the Associacao Portuguesa de Desportos - popularly
+      known as Portuguesa or Lusa, has its home stadium at the Caninde stadium, in the Pari
+      neighborhood. SC corinthians has its own stadium named Arena Neo Quimica, at the
+      Itaquera neighborhood. All of them in the city of São Paulo.
     questions_and_answers:
       - question: |
           What is the stadium name of Corinthians?
         answer: |
-          Arena Neoquimica
+          Arena Neo Quimica
       - question: |
           What is the stadium name of SE Palmeiras?
         answer: |
-          Allianz Park.
+          Allianz Park
       - question: |
           What is the name of the Portuguesa stadium?
         answer: |
-          Caninde.
+          Caninde
   - context: |
       The most popular soccer teams in Sao Paulo have their own nicknames. For example,
       Palmeiras is known as Verdao, Corinthians is known as Timao, Portuguesa is known as
@@ -31,15 +33,15 @@ seed_examples:
       - question: |
           What is the nickname of Sao Paulo FC?
         answer: |
-          Tricolor paulista.
+          Tricolor paulista
       - question: |
           What is the nickname of SE Palmeiras?
         answer: |
-          Verdao.
+          Verdao
       - question: |
           How is the Portuguesa soccer team also known?
         answer: |
-          Lusa.
+          Lusa
   - context: |
       There are some soccer matches that are very anticipated and keenly watched
       by fans. For example, Corinthians x Sao Paulo matches is known as Majestoso,
@@ -78,12 +80,14 @@ seed_examples:
         answer: |
           Kaka.
   - context: |
-      The FIFA Club World Cup is an international men's association football competition organised by the
-      FIFA, the sport's global governing body. The competition was first contested in 2000 as the FIFA
-      Club World Championship. Following the 2023 edition, the tournament was revamped to a
-      quadrennial competition starting in 2025. Views differ as to the cup's prestige:
-      it struggles to attract interest in most of Europe, and is the object of
-      heated debate in South America.
+      The FIFA Club World Cup (also known as Fifa World Championship) is an international
+      association football competition organised by the FIFA, the sport's global
+      governing body. The competition was first contested in 2000 as the FIFA
+      Club World Championship. Following the 2023 edition, the tournament was revamped to
+      a quadrennial competition starting in 2025. Views differ as to the cup's prestige:
+      it struggles to attract interest in most of Europe, and is the object of heated
+      debate in South America. Sao Paulo FC (SPFC) and SC Corinthians have world
+      championship titles.
     questions_and_answers:
       - question: |
           Did Corinthians win the FIFA Club World Cup?
@@ -113,6 +117,6 @@ document_outline: |
   Sao Paulo soccer teams facts
 document:
   repo: https://github.com/rfrht/instructlab-demo.git
-  commit: 27afe2571a852727a0834acfa1fb84722835f867
+  commit: 011ac21d4f2f5bf54c56c2124fec9984174a61e8
   patterns:
     - facts-soccer-sp.md
