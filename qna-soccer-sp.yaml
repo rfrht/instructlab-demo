@@ -48,10 +48,10 @@ seed_examples:
         answer: |
           Lusa
   - context: |
-      There are some soccer matches that are very anticipated and keenly watched
-      by fans. For example, Corinthians x SPFC matches is known as Majestoso,
-      Corinthians x Palmeiras matches are known as Derby Paulista and the matches
-      between Santos FC x Corinthians are known as Classico Alvinegro.
+      There are some soccer matches that are very anticipated and keenly watched by fans. To list some:
+      Corinthians versus SPFC matches are known as Majestoso
+      Corinthians versus Palmeiras matches are known as Derby Paulista
+      Santos FC versus Corinthians matches are known as Classico Alvinegro
     questions_and_answers:
       - question: |
           What's the name of the soccer match between Corinthians and SPFC?
@@ -66,11 +66,11 @@ seed_examples:
         answer: |
           Classico Alvinegro
   - context: |
-      Some soccer players are famous and left its mark on the teams. For example,
-      in Santos FC everyone knows Pelé. Boca Juniors had Maradona. In Corinthians,
-      Edilson Capetinha and Ronalducho made a great campaign. In SPFC
-      Kaka was their flagship player. And SE Palmeiras is well represented by
-      Ademir da Guia.
+      
+      Some soccer players are famous and left its mark on the teams. Santos FC had
+      Pelé. Boca Juniors had Maradona. Corinthians had Edilson Capetinha, Ronalducho
+      and Cassio. SPFC had Kaka and Raí. SE Palmeiras had Ademir da Guia, the
+      goalkeeper Marcos also known as São Marcos and Edmundo Animal.
     questions_and_answers:
       - question: |
           Who's the all-time most famous player of SE Palmeiras?
@@ -122,6 +122,6 @@ document_outline: |
   City of São Paulo soccer teams facts
 document:
   repo: https://github.com/rfrht/instructlab-demo.git
-  commit: 5258528bf1074f48823c0a95278ff6a047bcb965
+  commit: f4eae859cdc56d7c23e9a6c31a16fee2bcc96e88
   patterns:
     - facts-soccer-sp.md
