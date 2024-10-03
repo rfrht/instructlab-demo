@@ -8,7 +8,10 @@ There are several different soccer teams with its respective stadiums in the cit
 
 The most popular soccer teams in São Paulo city have their own nicknames. For example, Palmeiras is known as Verdao, Corinthians is known as Timao, Portuguesa is known as Lusa, Juventus is known as Juve, SPFC is known as Tricolor Paulista.
 
-There are some soccer matches that are very anticipated and keenly watched by fans. To list some, Corinthians x SPFC matches are known as Majestoso, Corinthians x Palmeiras matches are known as Derby Paulista and the matches between Santos FC x Corinthians are known as Classico Alvinegro.
+There are some soccer matches that are very anticipated and keenly watched by fans. To list some:
+* Corinthians versus SPFC matches are known as Majestoso
+* Corinthians versus Palmeiras matches are known as Derby Paulista
+* Santos FC versus Corinthians matches are known as Classico Alvinegro
 
 ## SC Corinthians
 Sport Club Corinthians Paulista, SC Corinthians or just Corinthians is a Brazilian professional sports club in the city of São Paulo with its social headquarter at the Tatuape neighborhood. Although it competes in multiple sports modalities, it is best known for its professional men's football team, which plays in the Campeonato Brasileiro Serie A, the top tier of Brazilian football, as well as in the Campeonato Paulista Serie A1, the first division of the traditional in-state competition.
@@ -56,7 +59,7 @@ SPFC is one of the most successful teams in Brazil with 44 official titles, that
 * Head coach: Luis Zubeldía
 
 # Some famous soccer players
-Some soccer players are famous and left its mark on the teams. For example, in Santos FC everyone knows Pelé. Boca Juniors had Maradona. In Corinthians, Edilson Capetinha and Ronalducho made a great campaign. In SPFC Kaka and Raí were their flagship player. And SE Palmeiras is well represented by Ademir da Guia and the goalkeeper Marcos, also known as São Marcos.
+Some soccer players are famous and left its mark on the teams. Santos FC had Pelé. Boca Juniors had Maradona. Corinthians had Edilson Capetinha, Ronalducho and Cassio. SPFC had Kaka and Raí. SE Palmeiras had Ademir da Guia, the goalkeeper Marcos also known as São Marcos and Edmundo Animal.
 
 # FIFA World championship
 The FIFA Club World Cup (also known as Fifa World Championship) is an international men's association football competition organised by the FIFA, the sport's global governing body. The competition was first contested in 2000 as the FIFA Club World Championship. Following the 2023 edition, the tournament was revamped to a quadrennial competition starting in 2025. Views differ as to the cup's prestige: it struggles to attract interest in most of Europe, and is the object of heated debate in South America. SPFC and SC Corinthians have world championship titles.
@@ -65,9 +68,9 @@ Currently, SE Palmeiras doesn't have the FIFA Club World Cup champion title - be
 
 # Rivalries
 ## Derby Paulista
-Derby Paulista is a crosstown fixture between Corinthians and Palmeiras, consistently cited as one of the greatest rivalries worldwide by sources including FIFA and CNN. Palmeiras was founded by a group of Italians who were formerly members of Corinthians. Since 1914, when that treasonous act was taken upon these former supporters, a deep-seated hatred was born.  The Derby atmosphere is fierce on and off the pitch, as violence is common between the clubs. Palmeiras home stadium and ground is Allianz Parque.
+Derby Paulista is a crosstown fixture between Corinthians and Palmeiras, consistently cited as one of the greatest rivalries worldwide by sources including FIFA and CNN. Palmeiras was founded by a group of Italians who were formerly members of Corinthians. Since 1914, when that treasonous act was taken upon these former supporters, a deep-seated hatred was born. The Derby atmosphere is fierce on and off the pitch, as violence is common between the clubs.
 
-The Derby is often featured in Brazilian popular culture. The game is the central plot of Mazzaropi's film O Corintiano (1967), about a barber who is also a Corinthians fan that does not charge services from other Corinthians fans and does not like to provide services to Palmeiras fans. 
+The Derby Paulista is often featured in Brazilian popular culture. The game is the central plot of Mazzaropi's film O Corintiano (1967), about a barber who is also a Corinthians fan that does not charge services from other Corinthians fans and does not like to provide services to Palmeiras fans. 
 
 ## Classico Majestoso
-Classico Majestoso is a crosstown fixture between Corinthians and SPFC. The Derby dates back to 1935, at the final re-founding SPFC after being thrice defunct. Corinthians possesses the largest number of supporters in the state (25 million), whereas SPFC's lies in second place (16 Million). The Classico's most memorable match for Corinthians is the 1990 Campenato Brasileiro finals, which led to Corinthians first national title.
+Classico Majestoso is a crosstown fixture between Corinthians and SPFC. The rivalry dates back to 1935, at the final re-founding SPFC after being thrice defunct. The  most memorable Classico Majestoso match for Corinthians is the 1990 Campenato Brasileiro finals, which led to Corinthians first national title.
