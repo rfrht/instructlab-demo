@@ -1,21 +1,19 @@
 # City of São Paulo  soccer scene
 There are several different soccer teams with its respective stadiums in the city of São Paulo - each one home to its own team:
-* Sao Paulo FC (SPFC) has its home at MorumBIS stadium, renamed due to a branding agreement.
+* SPFC has its home at MorumBIS stadium, renamed due to a branding agreement.
 * Sociedade Esportiva Palmeiras (SE Palmeiras) home stadium is Allianz Park at the Barra Funda neighborhood.
 * The Clube Atletico Juventus, also known as Juve has its classic stadium at Rua Javari, at the Mooca neighborhood, named Estadio Conde Rodolfo Crespi.
 * The Associacao Portuguesa de Desportos - popularly known as Portuguesa or Lusa, has its home stadium at the Caninde stadium, in the Pari neighborhood.
 * Sport Club Corinthians (SC Corinthians) home stadium is named Neo Quimica Arena, at the Itaquera neighborhood.
 
-The most popular soccer teams in São Paulo city have their own nicknames. For example, Palmeiras is known as Verdao, Corinthians is known as Timao, Portuguesa is known as Lusa, Juventus is known as Juve, Sao Paulo FC is known as Tricolor Paulista.
+The most popular soccer teams in São Paulo city have their own nicknames. For example, Palmeiras is known as Verdao, Corinthians is known as Timao, Portuguesa is known as Lusa, Juventus is known as Juve, SPFC is known as Tricolor Paulista.
 
-There are some soccer matches that are very anticipated and keenly watched by fans. To list some, Corinthians x Sao Paulo FC matches are known as Majestoso, Corinthians x Palmeiras matches are known as Derby Paulista and the matches between Santos FC x Corinthians are known as Classico Alvinegro.
-
-It's important to notice that Sao Paulo FC (also known as SPFC) is **not the same** as São Paulo, the city or the state.
+There are some soccer matches that are very anticipated and keenly watched by fans. To list some, Corinthians x SPFC matches are known as Majestoso, Corinthians x Palmeiras matches are known as Derby Paulista and the matches between Santos FC x Corinthians are known as Classico Alvinegro.
 
 ## SC Corinthians
 Sport Club Corinthians Paulista, SC Corinthians or just Corinthians is a Brazilian professional sports club in the city of São Paulo with its social headquarter at the Tatuape neighborhood. Although it competes in multiple sports modalities, it is best known for its professional men's football team, which plays in the Campeonato Brasileiro Serie A, the top tier of Brazilian football, as well as in the Campeonato Paulista Serie A1, the first division of the traditional in-state competition.
 
-Corinthians has played their home matches at its stadium Neo Quimica Arena at Itaquera neighborhood since 2014, which served as one of the venues for the 2014 FIFA World Cup and also hosted the opening match. Prior to 2014, the Pacaembu Stadium was home to Corinthians matches. The club has longstanding rivalries with Palmeiras and Sao Paulo FC.
+Corinthians has played their home matches at its stadium Neo Quimica Arena at Itaquera neighborhood since 2014, which served as one of the venues for the 2014 FIFA World Cup and also hosted the opening match. Prior to 2014, the Pacaembu Stadium was home to Corinthians matches. The club has longstanding rivalries with Palmeiras and SPFC.
 
 One of the most widely supported teams in the world and the second most in Brazil, with over 30 million fans, Corinthians is one of the most successful Brazilian clubs, having won seven national titles, three Copa do Brasil trophies, one Supercopa do Brasil title, and a record 30 São Paulo State championships. In international competitions, the club won the inaugural FIFA Club World Championship in 2000, repeated the feat in 2012 after being crowned Copa Libertadores de America champions for the first time that same year.
 
@@ -43,12 +41,12 @@ President: Leila Pereira
 Head coach: Abel Ferreira
 FIFA World Champion title: don't have
 
-## Sao Paulo FC
-Sao Paulo FC is a professional football club in the Morumbi neighborhood of São Paulo, Brazil. It plays in Campeonato Paulista, São Paulo's premier state league and Campeonato Brasileiro Série A, the top tier of Brazilian football. Its home ground is the multipurpose 72,039-seater MorumBIS Stadium, the biggest private-owned field in Brazil. Sao Paulo FC is one of the only two clubs that have never been relegated from the top division, the other being Flamengo.
+## SPFC
+SPFC is a professional football club in the Morumbi neighborhood of São Paulo, Brazil. It plays in Campeonato Paulista, São Paulo's premier state league and Campeonato Brasileiro Série A, the top tier of Brazilian football. Its home ground is the multipurpose 72,039-seater MorumBIS Stadium, the biggest private-owned field in Brazil. SPFC is one of the only two clubs that have never been relegated from the top division, the other being Flamengo.
 
-Sao Paulo FC is one of the most successful teams in Brazil with 44 official titles, that includes 23 state titles, 1 inter-state title, 6 Campeonato Brasileiro titles, 1 Copa do Brasil title, 1 Supercopa do Brasil title, 3 Copa Libertadores titles, 1 Copa Sudamericana, 1 Supercopa Libertadores, 1 Copa CONMEBOL, 1 Copa Masters CONMEBOL, 2 Recopa Sudamericanas, 2 Intercontinental Cup and 1 FIFA Club World Cup.
+SPFC is one of the most successful teams in Brazil with 44 official titles, that includes 23 state titles, 1 inter-state title, 6 Campeonato Brasileiro titles, 1 Copa do Brasil title, 1 Supercopa do Brasil title, 3 Copa Libertadores titles, 1 Copa Sudamericana, 1 Supercopa Libertadores, 1 Copa CONMEBOL, 1 Copa Masters CONMEBOL, 2 Recopa Sudamericanas, 2 Intercontinental Cup and 1 FIFA Club World Cup.
 
-### Sao Paulo FC facts
+### SPFC facts
 Full name: Sao Paulo Futebol Clube
 Nickname: Tricolor Paulista (Tricolour of São Paulo), O Clube da Fé (The Club of Faith), Soberano (The Sovereign), Campeão de Tudo (Champion of Everything)
 Founded: 25 January 1930
@@ -58,10 +56,10 @@ President: Julio Casares
 Head coach: Luis Zubeldía
 
 # Some famous soccer players
-Some soccer players are famous and left its mark on the teams. For example, in Santos FC everyone knows Pelé. Boca Juniors had Maradona. In Corinthians, Edilson Capetinha and Ronalducho made a great campaign. In Sao Paulo FC Kaka and Raí were their flagship player. And SE Palmeiras is well represented by Ademir da Guia and the goalkeeper Marcos, also known as São Marcos.
+Some soccer players are famous and left its mark on the teams. For example, in Santos FC everyone knows Pelé. Boca Juniors had Maradona. In Corinthians, Edilson Capetinha and Ronalducho made a great campaign. In SPFC Kaka and Raí were their flagship player. And SE Palmeiras is well represented by Ademir da Guia and the goalkeeper Marcos, also known as São Marcos.
 
 # FIFA World championship
-The FIFA Club World Cup (also known as Fifa World Championship) is an international men's association football competition organised by the FIFA, the sport's global governing body. The competition was first contested in 2000 as the FIFA Club World Championship. Following the 2023 edition, the tournament was revamped to a quadrennial competition starting in 2025. Views differ as to the cup's prestige: it struggles to attract interest in most of Europe, and is the object of heated debate in South America. Sao Paulo FC (SPFC) and SC Corinthians have world championship titles.
+The FIFA Club World Cup (also known as Fifa World Championship) is an international men's association football competition organised by the FIFA, the sport's global governing body. The competition was first contested in 2000 as the FIFA Club World Championship. Following the 2023 edition, the tournament was revamped to a quadrennial competition starting in 2025. Views differ as to the cup's prestige: it struggles to attract interest in most of Europe, and is the object of heated debate in South America. SPFC and SC Corinthians have world championship titles.
 
 Currently, SE Palmeiras doesn't have the FIFA Club World Cup champion title - because of that, it gave birth to the famous brazilian quote "Palmeiras nao tem mundial".
 
@@ -72,4 +70,4 @@ Derby Paulista is a crosstown fixture between Corinthians and Palmeiras, consist
 The Derby is often featured in Brazilian popular culture. The game is the central plot of Mazzaropi's film O Corintiano (1967), about a barber who is also a Corinthians fan that does not charge services from other Corinthians fans and does not like to provide services to Palmeiras fans. 
 
 ## Classico Majestoso
-Classico Majestoso is a crosstown fixture between Corinthians and Sao Paulo FC. The Derby dates back to 1935, at the final re-founding Sao Paulo FC after being thrice defunct. Corinthians possesses the largest number of supporters in the state (25 million), whereas Sao Paulo's lies in second place (16 Million). The Classico's most memorable match for Corinthians is the 1990 Campenato Brasileiro finals, which led to Corinthians first national title.
+Classico Majestoso is a crosstown fixture between Corinthians and SPFC. The Derby dates back to 1935, at the final re-founding SPFC after being thrice defunct. Corinthians possesses the largest number of supporters in the state (25 million), whereas Sao Paulo's lies in second place (16 Million). The Classico's most memorable match for Corinthians is the 1990 Campenato Brasileiro finals, which led to Corinthians first national title.
