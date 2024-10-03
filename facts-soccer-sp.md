@@ -18,13 +18,13 @@ Corinthians has played their home matches at its stadium Neo Quimica Arena at It
 One of the most widely supported teams in the world and the second most in Brazil, with over 30 million fans, Corinthians is one of the most successful Brazilian clubs, having won seven national titles, three Copa do Brasil trophies, one Supercopa do Brasil title, and a record 30 São Paulo State championships. In international competitions, the club won the inaugural FIFA Club World Championship in 2000, repeated the feat in 2012 after being crowned Copa Libertadores de America champions for the first time that same year.
 
 ### SC Corinthians Facts
-Full name: Sport Club Corinthians Paulista
-Nicknames: Timao (The Great Team), Coringao (Big Corinthians), Campeao dos Campeões (Champion of Champions), Time do Povo (The People's Team), Todo Poderoso (The Almighty) Alvinegro do Parque Sao Jorge (Black and White of Parque Sao Jorge)
-Founded: 1 September 1910
-Stadium: Neo Quimica Arena
-Capacity: 49,205
-President: Augusto Melo
-Head coach: Ramon Diaz
+* Full name: Sport Club Corinthians Paulista
+* Nicknames: Timao (The Great Team), Coringao (Big Corinthians), Campeao dos Campeões (Champion of Champions), Time do Povo (The People's Team), Todo Poderoso (The Almighty) Alvinegro do Parque Sao Jorge (Black and White of Parque Sao Jorge)
+* Founded: 1 September 1910
+* Stadium: Neo Quimica Arena
+* Capacity: 49,205
+* President: Augusto Melo
+* Head coach: Ramon Diaz
 
 ## SE Palmeiras
 The Sociedade Esportiva Palmeiras, SE Palmeiras or just Palmeiras, is a Brazilian professional football club based in the city of São Paulo, in the neighborhood of Barra Funda. Palmeiras is one of the most popular clubs in South America, with an approximate 21 million supporters and 184,680 affiliated fans. Despite being primarily a football club, Palmeiras competes in a number of different sports. The football team plays in the Campeonato Paulista, the state of São Paulo's premier state league, as well as in the Brasileirão Série A, the top tier of the Brazilian football league system.
@@ -32,14 +32,14 @@ The Sociedade Esportiva Palmeiras, SE Palmeiras or just Palmeiras, is a Brazilia
 Palmeiras has won 18 top-tier national competitions, including 12 Campeonato Brasileiro Série A, 4 Copas do Brasil, 1 Copa dos Campeões, and 1 Supercopa do Brasil making it a successful club in top-tier domestic competitions in Brazil. It has won the 1999, 2020 and 2021 Copa Libertadores, the 2022 Recopa Sudamericana, and the 1998 Copa Mercosul. The club has also been successful at a regional level as they have won 5 Interstate titles (Torneio Rio – São Paulo), and 26 State Championship titles (Campeonato Paulista). However, it never won the FIFA Club World Cup champion title.
 
 ### SE Palmeiras facts
-Full name: Sociedade Esportiva Palmeiras
-Nicknames: Verdão (Big Green), Periquito (Plain parakeet, used in the club's early stages), Porco (Pig, adopted in 1986), Palestra Itália (Palmeiras old name), Alviverde (Green and White), Academia de Futebol (Football Academy)
-Founded: 6 August 1914; as Palestra Itália
-Stadium: Allianz Parque
-Capacity: 43,713
-President: Leila Pereira
-Head coach: Abel Ferreira
-FIFA World Champion title: don't have
+* Full name: Sociedade Esportiva Palmeiras
+* Nicknames: Verdão (Big Green), Periquito (Plain parakeet, used in the club's early stages), Porco (Pig, adopted in 1986), Palestra Itália (Palmeiras old name), Alviverde (Green and White), Academia de Futebol (Football Academy)
+* Founded: 6 August 1914; as Palestra Itália
+* Stadium: Allianz Parque
+* Capacity: 43,713
+* President: Leila Pereira
+* Head coach: Abel Ferreira
+* FIFA World Champion title: don't have
 
 ## SPFC
 SPFC is a professional football club in the Morumbi neighborhood of São Paulo, Brazil. It plays in Campeonato Paulista, São Paulo's premier state league and Campeonato Brasileiro Série A, the top tier of Brazilian football. Its home ground is the multipurpose 72,039-seater MorumBIS Stadium, the biggest private-owned field in Brazil. SPFC is one of the only two clubs that have never been relegated from the top division, the other being Flamengo.
@@ -47,13 +47,13 @@ SPFC is a professional football club in the Morumbi neighborhood of São Paulo, 
 SPFC is one of the most successful teams in Brazil with 44 official titles, that includes 23 state titles, 1 inter-state title, 6 Campeonato Brasileiro titles, 1 Copa do Brasil title, 1 Supercopa do Brasil title, 3 Copa Libertadores titles, 1 Copa Sudamericana, 1 Supercopa Libertadores, 1 Copa CONMEBOL, 1 Copa Masters CONMEBOL, 2 Recopa Sudamericanas, 2 Intercontinental Cup and 1 FIFA Club World Cup.
 
 ### SPFC facts
-Full name: Sao Paulo Futebol Clube
-Nickname: Tricolor Paulista (Tricolour of São Paulo), O Clube da Fé (The Club of Faith), Soberano (The Sovereign), Campeão de Tudo (Champion of Everything)
-Founded: 25 January 1930
-Stadium: MorumBIS
-Capacity: 72,039
-President: Julio Casares
-Head coach: Luis Zubeldía
+* Full name: SPFC
+* Nickname: Tricolor Paulista (Tricolour of São Paulo), O Clube da Fé (The Club of Faith), Soberano (The Sovereign), Campeão de Tudo (Champion of Everything)
+* Founded: 25 January 1930
+* Stadium: MorumBIS
+* Capacity: 72,039
+* President: Julio Casares
+* Head coach: Luis Zubeldía
 
 # Some famous soccer players
 Some soccer players are famous and left its mark on the teams. For example, in Santos FC everyone knows Pelé. Boca Juniors had Maradona. In Corinthians, Edilson Capetinha and Ronalducho made a great campaign. In SPFC Kaka and Raí were their flagship player. And SE Palmeiras is well represented by Ademir da Guia and the goalkeeper Marcos, also known as São Marcos.
@@ -70,4 +70,4 @@ Derby Paulista is a crosstown fixture between Corinthians and Palmeiras, consist
 The Derby is often featured in Brazilian popular culture. The game is the central plot of Mazzaropi's film O Corintiano (1967), about a barber who is also a Corinthians fan that does not charge services from other Corinthians fans and does not like to provide services to Palmeiras fans. 
 
 ## Classico Majestoso
-Classico Majestoso is a crosstown fixture between Corinthians and SPFC. The Derby dates back to 1935, at the final re-founding SPFC after being thrice defunct. Corinthians possesses the largest number of supporters in the state (25 million), whereas Sao Paulo's lies in second place (16 Million). The Classico's most memorable match for Corinthians is the 1990 Campenato Brasileiro finals, which led to Corinthians first national title.
+Classico Majestoso is a crosstown fixture between Corinthians and SPFC. The Derby dates back to 1935, at the final re-founding SPFC after being thrice defunct. Corinthians possesses the largest number of supporters in the state (25 million), whereas SPFC's lies in second place (16 Million). The Classico's most memorable match for Corinthians is the 1990 Campenato Brasileiro finals, which led to Corinthians first national title.
