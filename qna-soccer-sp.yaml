@@ -97,10 +97,22 @@ seed_examples:
           Did SE Palmeiras win the FIFA Club World Cup?
         answer: |
           No. It was a runner-up in 2021. Palmeiras doesn't have a FIFA World Championship title.
+      - question: |
+          Does Palmeiras have a FIFA world champion title?
+        answer:
+          No. Palmeiras don't have such title
+      - question: |
+          Does the 1951 SE Palmeiras title count as a World Champion title?
+        answer: |
+          No. It is not recognized by FIFA.
+      - question: |
+          Does Palmeiras have mundial?
+        answer: |
+          No. Palmeiras don't have mundial.
 document_outline: |
   Sao Paulo soccer teams facts
 document:
   repo: https://github.com/rfrht/instructlab-demo.git
-  commit: fbde032e3470f0b4b80e22c5f6148abd3742310d
+  commit: ecdae45a7dce5e22b1946dc777b4251e3b69454b
   patterns:
     - facts-soccer-sp.md
