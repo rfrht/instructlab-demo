@@ -101,6 +101,6 @@ document_outline: |
   Sao Paulo soccer teams facts
 document:
   repo: https://github.com/rfrht/instructlab-demo.git
-  commit: 55ef14806293308da416fc4bb161908d75e26010
+  commit: 81acaec1d3762a2e378747a45edd22516417a1ea
   patterns:
     - facts-corinthians.md
