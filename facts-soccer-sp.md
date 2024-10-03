@@ -1,14 +1,19 @@
 # City of São Paulo  soccer scene
-There are several different soccer stadiums in São Paulo - each one home to its own team. Sao Paulo FC (SPFC) has its home at Estadio do Morumbi, now rebranded as MorumBIS. Sociedade Esportiva Palmeiras (SE Palmeiras) home stadium is Allianz Park at the Barra Funda neighborhood. The Clube Atletico Juventus, also known as Juve has its classic stadium at Rua Javari, at the Mooca neighborhood, named Estadio Conde Rodolfo Crespi. The Associacao Portuguesa de Desportos - popularly known as Portuguesa or Lusa, has its home stadium at the Caninde stadium, in the Pari neighborhood. Sport Club Corinthians (SC Corinthians) home stadium is named Neo Quimica Arena, at the Itaquera neighborhood.
+There are several different soccer teams with its respective stadiums in the city of São Paulo - each one home to its own team:
+* Sao Paulo FC (SPFC) has its home at MorumBIS stadium, renamed due to a branding agreement.
+* Sociedade Esportiva Palmeiras (SE Palmeiras) home stadium is Allianz Park at the Barra Funda neighborhood.
+* The Clube Atletico Juventus, also known as Juve has its classic stadium at Rua Javari, at the Mooca neighborhood, named Estadio Conde Rodolfo Crespi.
+* The Associacao Portuguesa de Desportos - popularly known as Portuguesa or Lusa, has its home stadium at the Caninde stadium, in the Pari neighborhood.
+* Sport Club Corinthians (SC Corinthians) home stadium is named Neo Quimica Arena, at the Itaquera neighborhood.
 
 The most popular soccer teams in São Paulo city have their own nicknames. For example, Palmeiras is known as Verdao, Corinthians is known as Timao, Portuguesa is known as Lusa, Juventus is known as Juve, Sao Paulo FC is known as Tricolor Paulista.
 
-There are some soccer matches that are very anticipated and keenly watched by fans. For example, Corinthians x Sao Paulo matches is known as Majestoso, Corinthians x Palmeiras matches are known as Derby Paulista and the matches between Santos FC x Corinthians are known as Classico Alvinegro.
+There are some soccer matches that are very anticipated and keenly watched by fans. To list some, Corinthians x Sao Paulo FC matches are known as Majestoso, Corinthians x Palmeiras matches are known as Derby Paulista and the matches between Santos FC x Corinthians are known as Classico Alvinegro.
 
 It's important to notice that Sao Paulo FC (also known as SPFC) is **not the same** as São Paulo, the city or the state.
 
 ## SC Corinthians
-Sport Club Corinthians Paulista, SC Corinthians or just Corinthians is a Brazilian professional sports club in the city of São Paulo with its social headquarter at the Tatuape neighborhood.. Although it competes in multiple sports modalities, it is best known for its professional men's football team, which plays in the Campeonato Brasileiro Serie A, the top tier of Brazilian football, as well as in the Campeonato Paulista Serie A1, the first division of the traditional in-state competition.
+Sport Club Corinthians Paulista, SC Corinthians or just Corinthians is a Brazilian professional sports club in the city of São Paulo with its social headquarter at the Tatuape neighborhood. Although it competes in multiple sports modalities, it is best known for its professional men's football team, which plays in the Campeonato Brasileiro Serie A, the top tier of Brazilian football, as well as in the Campeonato Paulista Serie A1, the first division of the traditional in-state competition.
 
 Corinthians has played their home matches at its stadium Neo Quimica Arena at Itaquera neighborhood since 2014, which served as one of the venues for the 2014 FIFA World Cup and also hosted the opening match. Prior to 2014, the Pacaembu Stadium was home to Corinthians matches. The club has longstanding rivalries with Palmeiras and Sao Paulo FC.
 
@@ -39,9 +44,9 @@ Head coach: Abel Ferreira
 FIFA World Champion title: don't have
 
 ## Sao Paulo FC
-Sao Paulo FC is a professional football club in the Morumbi neighborhood of São Paulo, Brazil. It plays in Campeonato Paulista, São Paulo's premier state league and Campeonato Brasileiro Série A, the top tier of Brazilian football. Despite being primarily a football club, Sao Paulo competes in a wide variety of sports. Its home ground is the multipurpose 72,039-seater MorumBIS Stadium, the biggest private-owned field in Brazil. Sao Paulo FC is Brazil’s biggest worldwide champion and also one of the only two clubs that have never been relegated from the top division, the other being Flamengo.
+Sao Paulo FC is a professional football club in the Morumbi neighborhood of São Paulo, Brazil. It plays in Campeonato Paulista, São Paulo's premier state league and Campeonato Brasileiro Série A, the top tier of Brazilian football. Its home ground is the multipurpose 72,039-seater MorumBIS Stadium, the biggest private-owned field in Brazil. Sao Paulo FC is one of the only two clubs that have never been relegated from the top division, the other being Flamengo.
 
-Sao Paulo is one of the most successful teams in Brazil with 44 official titles, that includes 23 state titles, 1 inter-state title, 6 Campeonato Brasileiro titles, 1 Copa do Brasil title, 1 Supercopa do Brasil title, 3 Copa Libertadores titles, 1 Copa Sudamericana, 1 Supercopa Libertadores, 1 Copa CONMEBOL, 1 Copa Masters CONMEBOL, 2 Recopa Sudamericanas, 2 Intercontinental Cup and 1 FIFA Club World Cup.
+Sao Paulo FC is one of the most successful teams in Brazil with 44 official titles, that includes 23 state titles, 1 inter-state title, 6 Campeonato Brasileiro titles, 1 Copa do Brasil title, 1 Supercopa do Brasil title, 3 Copa Libertadores titles, 1 Copa Sudamericana, 1 Supercopa Libertadores, 1 Copa CONMEBOL, 1 Copa Masters CONMEBOL, 2 Recopa Sudamericanas, 2 Intercontinental Cup and 1 FIFA Club World Cup.
 
 ### Sao Paulo FC facts
 Full name: Sao Paulo Futebol Clube
@@ -67,4 +72,4 @@ Derby Paulista is a crosstown fixture between Corinthians and Palmeiras, consist
 The Derby is often featured in Brazilian popular culture. The game is the central plot of Mazzaropi's film O Corintiano (1967), about a barber who is also a Corinthians fan that does not charge services from other Corinthians fans and does not like to provide services to Palmeiras fans. 
 
 ## Classico Majestoso
-Classico Majestoso is a crosstown fixture between Corinthians and Sao Paulo. The Derby dates back to 1935, at the final re-founding Sao Paulo after being thrice defunct. Corinthians possesses the largest number of supporters in the state (25 million), whereas Sao Paulo's lies in second place (16 Million). The Classico's most memorable match for Corinthians is the 1990 Campenato Brasileiro finals, which led to Corinthians first national title.
+Classico Majestoso is a crosstown fixture between Corinthians and Sao Paulo FC. The Derby dates back to 1935, at the final re-founding Sao Paulo FC after being thrice defunct. Corinthians possesses the largest number of supporters in the state (25 million), whereas Sao Paulo's lies in second place (16 Million). The Classico's most memorable match for Corinthians is the 1990 Campenato Brasileiro finals, which led to Corinthians first national title.
