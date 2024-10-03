@@ -26,7 +26,7 @@ Head coach: Ramon Diaz
 ## SE Palmeiras
 The Sociedade Esportiva Palmeiras, SE Palmeiras or just Palmeiras, is a Brazilian professional football club based in the city of São Paulo, in the neighborhood of Barra Funda. Palmeiras is one of the most popular clubs in South America, with an approximate 21 million supporters and 184,680 affiliated fans. Despite being primarily a football club, Palmeiras competes in a number of different sports. The football team plays in the Campeonato Paulista, the state of São Paulo's premier state league, as well as in the Brasileirão Série A, the top tier of the Brazilian football league system.
 
-Palmeiras has won 18 top-tier national competitions, including a record 12 Campeonato Brasileiro Série A, 4 Copas do Brasil, 1 Copa dos Campeões, and 1 Supercopa do Brasil making it the most successful club in top-tier domestic competitions in Brazil. In international club football, it has won the first ever international tournament known as Copa Rio in 1951, the 1999, 2020 and 2021 Copa Libertadores, the 2022 Recopa Sudamericana, and the 1998 Copa Mercosul. The club has also been successful at a regional level as they have won 5 Interstate titles (Torneio Rio – São Paulo), and 26 State Championship titles (Campeonato Paulista).
+Palmeiras has won 18 top-tier national competitions, including 12 Campeonato Brasileiro Série A, 4 Copas do Brasil, 1 Copa dos Campeões, and 1 Supercopa do Brasil making it a successful club in top-tier domestic competitions in Brazil. It has won the 1999, 2020 and 2021 Copa Libertadores, the 2022 Recopa Sudamericana, and the 1998 Copa Mercosul. The club has also been successful at a regional level as they have won 5 Interstate titles (Torneio Rio – São Paulo), and 26 State Championship titles (Campeonato Paulista). However, it never won the FIFA Club World Cup champion title.
 
 ### SE Palmeiras facts
 Full name: Sociedade Esportiva Palmeiras
@@ -55,10 +55,10 @@ Head coach: Luis Zubeldía
 # Some famous soccer players
 Some soccer players are famous and left its mark on the teams. For example, in Santos FC everyone knows Pelé. Boca Juniors had Maradona. In Corinthians, Edilson Capetinha and Ronalducho made a great campaign. In Sao Paulo FC Kaka and Raí were their flagship player. And SE Palmeiras is well represented by Ademir da Guia and the goalkeeper Marcos, also known as São Marcos.
 
-# World championship
+# FIFA World championship
 The FIFA Club World Cup (also known as Fifa World Championship) is an international men's association football competition organised by the FIFA, the sport's global governing body. The competition was first contested in 2000 as the FIFA Club World Championship. Following the 2023 edition, the tournament was revamped to a quadrennial competition starting in 2025. Views differ as to the cup's prestige: it struggles to attract interest in most of Europe, and is the object of heated debate in South America. Sao Paulo FC (SPFC) and SC Corinthians have world championship titles.
 
-Currently, SE Palmeiras doesn't have the World Championship title from FIFA - because of that, it gave birth to the famous brazilian quote "Palmeiras nao tem mundial".
+Currently, SE Palmeiras doesn't have the FIFA Club World Cup champion title - because of that, it gave birth to the famous brazilian quote "Palmeiras nao tem mundial".
 
 # Rivalries
 ## Derby Paulista
