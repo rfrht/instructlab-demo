@@ -103,4 +103,4 @@ document:
   repo: https://github.com/rfrht/instructlab-demo.git
   commit: 81acaec1d3762a2e378747a45edd22516417a1ea
   patterns:
-    - facts-corinthians.md
+    - facts-soccer-sp.md
