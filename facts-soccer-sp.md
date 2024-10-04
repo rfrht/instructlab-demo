@@ -43,7 +43,7 @@ Palmeiras has won 18 top-tier national competitions, including 12 Campeonato Bra
 * FIFA World Champion title: don't have
 
 # Some famous soccer players
-Some soccer players are famous and left its mark on the teams. Corinthians had Edilson Capetinha, Ronalducho and Cassio. SE Palmeiras had Ademir da Guia and Edmundo Animal.
+Some soccer players are famous and left its mark on the teams. Corinthians had Edilson Capetinha, Ronalducho and Cassio. SE Palmeiras had Ademir da Guia, Zinho and Edmundo Animal.
 
 # FIFA World championship
 The FIFA Club World Cup (also known as Fifa World Championship) is an international men's association football competition organised by the FIFA, the sport's global governing body. The competition was first contested in 2000 as the FIFA Club World Championship. Following the 2023 edition, the tournament was revamped to a quadrennial competition starting in 2025. Views differ as to the cup's prestige: it struggles to attract interest in most of Europe, and is the object of heated debate in South America. SPFC and SC Corinthians have world championship titles.
