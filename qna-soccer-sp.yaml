@@ -61,7 +61,7 @@ seed_examples:
   - context: |
       Some soccer players are famous and left its mark on the teams. Santos FC had
       Pelé. Boca Juniors had Maradona. Corinthians had Edilson Capetinha, Ronalducho
-      and Cassio. SE Palmeiras had Ademir da Guia and Edmundo Animal.
+      and Cassio. SE Palmeiras had Ademir da Guia, Zinho and Edmundo Animal.
     questions_and_answers:
       - question: |
           Who's the all-time most famous player of SE Palmeiras?
@@ -108,6 +108,6 @@ document_outline: |
   City of São Paulo soccer teams facts
 document:
   repo: https://github.com/rfrht/instructlab-demo.git
-  commit: 104a49b3750e62128a81fdbfc3c42e42dadc76b2
+  commit: 59892e465a992af0ce0a9c0722437c376e9c3736
   patterns:
     - facts-soccer-sp.md
