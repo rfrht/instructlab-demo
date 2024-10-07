@@ -93,14 +93,6 @@ seed_examples:
         answer: |
           No. It was a runner-up in 2021. Palmeiras doesn't have a FIFA World Championship title.
       - question: |
-          Does Palmeiras have a FIFA world champion title?
-        answer:
-          No. Palmeiras don't have such title
-      - question: |
-          Does the 1951 SE Palmeiras title count as a World Champion title?
-        answer: |
-          No. It is not recognized by FIFA.
-      - question: |
           Does Palmeiras have mundial?
         answer: |
           No. Palmeiras don't have mundial.
