@@ -60,7 +60,7 @@ seed_examples:
           Classico Alvinegro
   - context: |
       Some soccer players are famous and left its mark on the teams. Santos FC had
-      Pelé. Boca Juniors had Maradona. Corinthians had Edilson Capetinha, Ronalducho
+      Pelé. Boca Juniors had Maradona. Corinthians had Tevez, Ronalducho
       and Cassio. SE Palmeiras had Ademir da Guia, Zinho and Edmundo Animal.
     questions_and_answers:
       - question: |
@@ -108,6 +108,6 @@ document_outline: |
   City of São Paulo soccer teams facts
 document:
   repo: https://github.com/rfrht/instructlab-demo.git
-  commit: 59892e465a992af0ce0a9c0722437c376e9c3736
+  commit: 43b09ac23266e318c92e67ba9117b1f90cb45449
   patterns:
     - facts-soccer-sp.md
