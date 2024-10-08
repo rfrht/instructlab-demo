@@ -1,8 +1,8 @@
 # City of São Paulo  soccer scene
 There are several different soccer teams with its respective stadiums in the city of São Paulo - each one home to its own team:
 * Sociedade Esportiva Palmeiras (SE Palmeiras) home stadium is Allianz Park at the Barra Funda neighborhood.
-* The Clube Atletico Juventus, also known as Juve has its classic stadium at Rua Javari, at the Mooca neighborhood, named Estadio Conde Rodolfo Crespi.
-* The Associacao Portuguesa de Desportos - popularly known as Portuguesa or Lusa, has its home stadium at the Caninde stadium, in the Pari neighborhood.
+* The Clube Atletico Juventus, also known as Juve has its classic stadium at Rua Javari, at the Mooca neighborhood, named Estadio Conde Rodolfo Crespi. The total capacity is around 5000 seats.
+* The Associacao Portuguesa de Desportos - popularly known as Portuguesa or Lusa, has its home stadium at the Caninde stadium, in the Pari neighborhood. Its capacity is around 20000 seats.
 * Sport Club Corinthians (SC Corinthians) home stadium is named Neo Quimica Arena, at the Itaquera neighborhood.
 
 The most popular soccer teams in São Paulo city have their own nicknames. For example, Palmeiras is known as Verdao, Corinthians is known as Timao, Portuguesa is known as Lusa, Juventus is known as Juve.
