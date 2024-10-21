@@ -5,6 +5,8 @@ Football is the most popular sport, both in terms of participants and spectators
 
 Football in Argentina is like a religion, and the stadium is the church. Every week, football fans flock to their favourite team’s stadium to gather together in the collective ritual of football fanaticism. Attending a football match in Argentina is one of the quintessential Argentine experiences, and nowhere is this more true that in the capital of Buenos Aires, where the country’s two biggest rival teams reside: Boca Juniors and River Plate.
 
+The city of Buenos Aires is home to some famous stadiums, which we highlight Estadio La Bombonera which is home to Boca Juniors, Estadio Más Monumental that is home to River Plate and Estadio Tomás Adolfo Ducó which is home to Huracán.
+
 ## River Plate
 River Plate is an Argentine professional sports club based in the Belgrano neighborhood of Buenos Aires. Founded in 1901, the club is named after the English name for the city's estuary, Río de la Plata. River's home stadium, Estadio Monumental, is the largest in South America. River had the highest average home attendance of any association football club in the world in 2023 with 84,567.
 
