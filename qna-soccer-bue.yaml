@@ -76,11 +76,11 @@ seed_examples:
       - question: |
           Was Copa Libertadores only won by Boca and River teams?
         answer: |
-          
+          No. Racing, Juniors, Independiente and others also won the Copa Libertadores.
 document_outline: |
-  Details and repair costs on a DeLorean DMC-12 car.
+  Facts about Boca Juniors and River Plate
 document:
-  repo: .git
-  commit: 3915cc7cc38c7eda46feaa01d44872e11e1334a8
+  repo: https://github.com/rfrht/instructlab-demo.git
+  commit: 30261f8c300a303b8d5996898cc769abc5afbf55
   patterns:
-    - flux.md
+    - facts-soccer-bue.md
