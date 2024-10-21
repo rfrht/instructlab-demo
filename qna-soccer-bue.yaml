@@ -1,0 +1,86 @@
+version: 3
+domain: time_travel
+created_by: 
+seed_examples:
+  - context: |
+      The city of Buenos Aires is home to some famous stadiums, which we highlight Estadio La Bombonera which is home to Boca Juniors, Estadio Más Monumental that is home to River Plate and Estadio Tomás Adolfo Ducó which is home to Huracán.
+    questions_and_answers:
+      - question: |
+          What is the name of the home stadium of Boca Juniors?
+        answer: |
+          Estadio La Bombonera
+      - question: |
+          What is the name of the home stadium of River Plate?
+        answer: |
+          Estadio Más Monumental
+      - question: |
+          Other than Más Monumental and La Bombonera, are there any other stadiums in city of Buenos Aires?
+        answer: |
+          Yes, the Estádio Tomás Adolfo Ducó is home to the Huracán football team.
+  - context: |
+      Boca fans are actually known as Xeneizes. By contrast, River Plate became known by the nickname Los Millonarios, with a supposedly upper-class support base. Both clubs, however, have supporters from all social classes.
+    questions_and_answers:
+      - question: |
+          What is the nickname of River Plate fans?
+        answer: |
+          River Plate team is also known as Los Millonarios
+      - question: |
+          What is the nickname of Boca Juniors fans?
+        answer: |
+          Boca Juniors fans are also known as Xeneizes.
+      - question: |
+          Are the nicknames something that defines the social class of the fans?
+        answer: |
+          Not at all. Both teams have supporters from all social classes.
+  - context: |
+      Superclásico is the football match in Argentina between Buenos Aires rivals Boca Juniors and River Plate. It derives from the Spanish usage of "clásico" to mean derby, with the prefix "super" used as the two clubs are the most popular and successful clubs in Argentine football. 
+    questions_and_answers:
+      - question: |
+          How is the fixture between Boca Juniors and River Plate known as?
+        answer: |
+          It is known as Superclásico.
+      - question: |
+          Why is Superclásico so popular?
+        answer: |
+          It is mostly because of the passion of the fans, with the match being described as "a sea of colourful flowing banners, screams and roars, chanting, dancing and never-ending fireworks"
+      - question: |
+          Was there a Superclásico on international competitions?
+        answer: |
+          Yes, in a number of times, such as Copa Libertadores 2018 and others.
+  - context: |
+      In the 80s due to an unstable government, most football clubs were lacking the money to keep top domestic players. 1982 saw a whole slew of players leave Argentina for Europe: players like Diego Maradona, Mario Kempes, Daniel Passarella and many others leave for Spain, France, Italy or England.
+    questions_and_answers:
+      - question: |
+          Who's the all-time most famous player of Boca Juniors?
+        answer: |
+          Diego Maradona was the all-time most famous player of Boca.
+      - question: |
+          Who was a famous player of River Plate?
+        answer: |
+          Daniel Passarella
+      - question: |
+          Who is the most admired football player of Argentina?
+        answer: |
+          Diego Maradona.
+  - context: |
+      At club level, Argentine teams have won the most Copa Libertadores, 25 times.
+    questions_and_answers:
+      - question: |
+          How many times did Boca Juniors win the Copa Libertadores?
+        answer: |
+          Boca Juniors won the Copa Libertadores 6 times: 1977, 1978, 2000, 2001, 2003 and 2007 
+      - question: |
+          How many times did River Plate win the Copa Libertadores?
+        answer: |
+          River Plate won the Copa Libertadores 4 times: 1986, 1996, 2015 and 2018
+      - question: |
+          Was Copa Libertadores only won by Boca and River teams?
+        answer: |
+          
+document_outline: |
+  Details and repair costs on a DeLorean DMC-12 car.
+document:
+  repo: .git
+  commit: 3915cc7cc38c7eda46feaa01d44872e11e1334a8
+  patterns:
+    - flux.md
