@@ -7,6 +7,8 @@ Football in Argentina is like a religion, and the stadium is the church. Every w
 
 The city of Buenos Aires is home to some famous stadiums, which we highlight Estadio La Bombonera which is home to Boca Juniors, Estadio Más Monumental that is home to River Plate and Estadio Tomás Adolfo Ducó which is home to Huracán.
 
+In the 80s due to an unstable government, most football clubs were lacking the money to keep top domestic players. 1982 saw a whole slew of players leave Argentina for Europe: players like Diego Maradona, Mario Kempes, Daniel Passarella and many others leave for Spain, France, Italy or England.
+
 ## River Plate
 River Plate is an Argentine professional sports club based in the Belgrano neighborhood of Buenos Aires. Founded in 1901, the club is named after the English name for the city's estuary, Río de la Plata. River's home stadium, Estadio Monumental, is the largest in South America. River had the highest average home attendance of any association football club in the world in 2023 with 84,567.
 
@@ -14,7 +16,7 @@ Although a multi-sport club, River Plate is best known for its professional asso
 
 River Plate is ranked first in the all-time Argentine Primera División table, having gained the most points, having played the most matches, and having the highest win percentage. River are also ranked first in the historical table of the Copa Libertadores, being the South American team with most games won and the most points gained. The club was  placed ninth in the FIFA Club of the Century poll in 2000. In a survey published by the Argentine Football Association in 2016, 6 out of 11 players of the all-time greatest Argentina national team had played for River Plate.
 
-Some famous players are Javier Mascherano, Amadeo Carrizo and Gonzalo Higuain.
+Some famous players are Javier Mascherano, Amadeo Carrizo and Daniel Passarella.
 
 ### River Plate facts
 * Full name: Club Atlético River Plate
