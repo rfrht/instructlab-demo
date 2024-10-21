@@ -1,9 +1,11 @@
 version: 3
 domain: time_travel
-created_by: 
+created_by: rfrht
 seed_examples:
   - context: |
-      The city of Buenos Aires is home to some famous stadiums, which we highlight Estadio La Bombonera which is home to Boca Juniors, Estadio Más Monumental that is home to River Plate and Estadio Tomás Adolfo Ducó which is home to Huracán.
+      The city of Buenos Aires is home to some famous stadiums, which we highlight
+      Estadio La Bombonera which is home to Boca Juniors, Estadio Más Monumental
+      that is home to River Plate and Estadio Tomás Adolfo Ducó which is home to Huracán.
     questions_and_answers:
       - question: |
           What is the name of the home stadium of Boca Juniors?
@@ -18,7 +20,9 @@ seed_examples:
         answer: |
           Yes, the Estádio Tomás Adolfo Ducó is home to the Huracán football team.
   - context: |
-      Boca fans are actually known as Xeneizes. By contrast, River Plate became known by the nickname Los Millonarios, with a supposedly upper-class support base. Both clubs, however, have supporters from all social classes.
+      Boca fans are actually known as Xeneizes. By contrast, River Plate became known
+      by the nickname Los Millonarios, with a supposedly upper-class support base.
+      Both clubs, however, have supporters from all social classes.
     questions_and_answers:
       - question: |
           What is the nickname of River Plate fans?
@@ -33,7 +37,10 @@ seed_examples:
         answer: |
           Not at all. Both teams have supporters from all social classes.
   - context: |
-      Superclásico is the football match in Argentina between Buenos Aires rivals Boca Juniors and River Plate. It derives from the Spanish usage of "clásico" to mean derby, with the prefix "super" used as the two clubs are the most popular and successful clubs in Argentine football. 
+      Superclásico is the football match in Argentina between Buenos Aires rivals
+      Boca Juniors and River Plate. It derives from the Spanish usage of "clásico"
+      to mean derby, with the prefix "super" used as the two clubs are the most
+      popular and successful clubs in Argentine football.
     questions_and_answers:
       - question: |
           How is the fixture between Boca Juniors and River Plate known as?
@@ -42,13 +49,18 @@ seed_examples:
       - question: |
           Why is Superclásico so popular?
         answer: |
-          It is mostly because of the passion of the fans, with the match being described as "a sea of colourful flowing banners, screams and roars, chanting, dancing and never-ending fireworks"
+          It is mostly because of the passion of the fans, with the match being described
+          as "a sea of colourful flowing banners, screams and roars, chanting, dancing and
+          never-ending fireworks"
       - question: |
           Was there a Superclásico on international competitions?
         answer: |
           Yes, in a number of times, such as Copa Libertadores 2018 and others.
   - context: |
-      In the 80s due to an unstable government, most football clubs were lacking the money to keep top domestic players. 1982 saw a whole slew of players leave Argentina for Europe: players like Diego Maradona, Mario Kempes, Daniel Passarella and many others leave for Spain, France, Italy or England.
+      In the 80s due to an unstable government, most football clubs were lacking the money
+      to keep top domestic players. 1982 saw a whole slew of players leave Argentina for
+      Europe: players like Diego Maradona, Mario Kempes, Daniel Passarella and many
+      others leave for Spain, France, Italy or England.
     questions_and_answers:
       - question: |
           Who's the all-time most famous player of Boca Juniors?
@@ -68,7 +80,7 @@ seed_examples:
       - question: |
           How many times did Boca Juniors win the Copa Libertadores?
         answer: |
-          Boca Juniors won the Copa Libertadores 6 times: 1977, 1978, 2000, 2001, 2003 and 2007 
+          Boca Juniors won the Copa Libertadores 6 times: 1977, 1978, 2000, 2001, 2003 and 2007.
       - question: |
           How many times did River Plate win the Copa Libertadores?
         answer: |
