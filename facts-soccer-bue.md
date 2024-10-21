@@ -9,6 +9,8 @@ The city of Buenos Aires is home to some famous stadiums, which we highlight Est
 
 In the 80s due to an unstable government, most football clubs were lacking the money to keep top domestic players. 1982 saw a whole slew of players leave Argentina for Europe: players like Diego Maradona, Mario Kempes, Daniel Passarella and many others leave for Spain, France, Italy or England.
 
+At club level, Argentine teams have won the most Copa Libertadores, 25 times.
+
 ## River Plate
 River Plate is an Argentine professional sports club based in the Belgrano neighborhood of Buenos Aires. Founded in 1901, the club is named after the English name for the city's estuary, Río de la Plata. River's home stadium, Estadio Monumental, is the largest in South America. River had the highest average home attendance of any association football club in the world in 2023 with 84,567.
 
