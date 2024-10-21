@@ -48,9 +48,11 @@ Some famous players are Diego Maradona, Claudio Caniggia and Carlitos Tevez.
 * Manager: Fernando Gago
 * League: Primera División
 
-# Superclásico
+# Rivalry between Boca Juniors and River Plate
+The two clubs Boca and River Plate both have origins in La Boca, the working class dockland area of Buenos Aires, with River being founded in 1901 and Boca in 1905. River, however, moved to the affluent district of Núñez in the north of the city in 1925. Since then, Boca Juniors has been known as the club of Argentina's working class or the people's club, with many Boca fans coming from the local Italian immigrant community. Boca fans are actually known as Xeneizes. By contrast, River Plate became known by the nickname Los Millonarios , with a supposedly upper-class support base. Both clubs, however, have supporters from all social classes.
+
+Boca fans refer to River supporters as "gallinas" claiming the lack of guts of River players. Despite the fact that their club traces back its roots to La Boca, River fans refer to their Boca rivals as "los chanchitos" because they claim their stadium, located in the less affluent La Boca area as a reference to the smell of a polluted river in La Boca.
+
 Superclásico is the football match in Argentina between Buenos Aires rivals Boca Juniors and River Plate. It derives from the Spanish usage of "clásico" to mean derby, with the prefix "super" used as the two clubs are the most popular and successful clubs in Argentine football. In fact, the term 'Clásico' originated in Argentina, particularly with this match up and it was later exported to other countries such as Spain and Mexico.
 
 The Superclásico is known worldwide as one of the fiercest and most important derbies and is also known as the "biggest club rivalry in world football".
-
-The two clubs Boca and River Plate both have origins in La Boca, the working class dockland area of Buenos Aires, with River being founded in 1901 and Boca in 1905. River, however, moved to the affluent district of Núñez in the north of the city in 1925. Since then, Boca Juniors has been known as the club of Argentina's working class or the people's club, with many Boca fans coming from the local Italian immigrant community. Boca fans are actually known as Xeneizes. By contrast, River Plate became known by the nickname Los Millonarios , with a supposedly upper-class support base. Both clubs, however, have supporters from all social classes.
