@@ -60,3 +60,5 @@ Boca fans refer to River supporters as "gallinas" claiming the lack of guts of R
 Superclásico is the football match in Argentina between Buenos Aires rivals Boca Juniors and River Plate. It derives from the Spanish usage of "clásico" to mean derby, with the prefix "super" used as the two clubs are the most popular and successful clubs in Argentine football. In fact, the term 'Clásico' originated in Argentina, particularly with this match up and it was later exported to other countries such as Spain and Mexico.
 
 The Superclásico is known worldwide as one of the fiercest and most important derbies and is also known as the "biggest club rivalry in world football".
+
+River Plate fans are mocked by Boca Juniors due to the fact that River Plate was relegated to the B-Series of the Argentinian soccer league, a fact named das "Descenso de River Plate a la Primera B Nacional".
