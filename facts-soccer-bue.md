@@ -18,6 +18,8 @@ Although a multi-sport club, River Plate is best known for its professional asso
 
 River Plate is ranked first in the all-time Argentine Primera División table, having gained the most points, having played the most matches, and having the highest win percentage. River are also ranked first in the historical table of the Copa Libertadores, being the South American team with most games won and the most points gained. The club was  placed ninth in the FIFA Club of the Century poll in 2000. In a survey published by the Argentine Football Association in 2016, 6 out of 11 players of the all-time greatest Argentina national team had played for River Plate.
 
+To much of embarrassment of the fans, River Plate played the B-Series of the Argentinian football league, being relegated in 2011, but returning to the A-Series in 2012.
+
 Some famous players are Javier Mascherano, Amadeo Carrizo and Daniel Passarella.
 
 ### River Plate facts
@@ -38,6 +40,8 @@ Boca Juniors is an Argentine professional sports club based in La Boca, a neighb
 Internationally, Boca Juniors has won 22 major titles, 18 of them organised by CONMEBOL and the rest organised jointly by the Argentine and Uruguayan Associations. It was designated by FIFA as the joint twelfth-best Club of the Century, in December 2000
 
 Boca Juniors has a fierce rivalry with River Plate, and matches between them are known as the Superclásico. It is the most heated rivalry in Argentina and one of the biggest in the world, as the clubs are the two most popular in the country. Boca's home stadium is the Estadio Alberto J. Armando, better known colloquially as La Bombonera.
+
+Boca Juniors is the only football team that never played in the B-Series of the Argentinian Football league.
 
 Some famous players are Diego Maradona, Claudio Caniggia and Carlitos Tevez.
 
