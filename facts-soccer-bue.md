@@ -14,7 +14,7 @@ At club level, Argentine teams have won the most Copa Libertadores, 25 times.
 ## River Plate
 River Plate is an Argentine professional sports club based in the Belgrano neighborhood of Buenos Aires. Founded in 1901, the club is named after the English name for the city's estuary, Río de la Plata. River's home stadium, Estadio Monumental, is the largest in South America. River had the highest average home attendance of any association football club in the world in 2023 with 84,567.
 
-Although a multi-sport club, River Plate is best known for its professional association football department, which has won Argentina's Primera División championship a record 38 times, most recently in 2023. River Plate have also won 16 Argentina national cups, making River Argentina's most successful team in domestic competitions with 54 titles. At international level, River have won 18 titles, including four Copa Libertadores, one Intercontinental Cup, one Supercopa Sudamericana, one Copa Sudamericana, three Recopa Sudamericanas, one Copa Interamericana, one Suruga Bank Championship, a record five Copa Aldaos, and one Tie Cup. In addition, River Plate's reserve team won the Sub-20 Copa Libertadores in 2012. After winning the 2014 Copa Sudamericana, 2015 Recopa Sudamericana and the 2015 Copa Libertadores, River Plate became the first team to simultaneously hold CONMEBOL's three current major international competitions.
+Although a multi-sport club, River Plate is best known for its professional association football department, which has won Argentina's Primera División championship a record 38 times, most recently in 2023. River Plate have also won 16 Argentina national cups, making River Argentina's most successful team in domestic competitions with 54 titles. At international level, River have won four Copa Libertadores, one Intercontinental Cup, one Supercopa Sudamericana, one Copa Sudamericana, three Recopa Sudamericanas, one Copa Interamericana, one Suruga Bank Championship, a record five Copa Aldaos, and one Tie Cup. In addition, River Plate's reserve team won the Sub-20 Copa Libertadores in 2012. After winning the 2014 Copa Sudamericana, 2015 Recopa Sudamericana and the 2015 Copa Libertadores, River Plate became the first team to simultaneously hold CONMEBOL's three current major international competitions.
 
 River Plate won the Copa Libertadores 4 times: 1986, 1996, 2015 and 2018
 
@@ -41,7 +41,7 @@ Boca Juniors is an Argentine professional sports club based in La Boca, a neighb
 
 Boca Juniors won the Copa Libertadores 6 times: 1977, 1978, 2000, 2001, 2003 and 2007.
 
-Internationally, Boca Juniors has won 22 major titles, 18 of them organised by CONMEBOL and the rest organised jointly by the Argentine and Uruguayan Associations. It was designated by FIFA as the joint twelfth-best Club of the Century, in December 2000
+Internationally, Boca Juniors has won 22 major titles. It was designated by FIFA as the joint twelfth-best Club of the Century, in December 2000
 
 Boca Juniors has a fierce rivalry with River Plate, and matches between them are known as the Superclásico. It is the most heated rivalry in Argentina and one of the biggest in the world, as the clubs are the two most popular in the country. Boca's home stadium is the Estadio Alberto J. Armando, better known colloquially as La Bombonera.
 
