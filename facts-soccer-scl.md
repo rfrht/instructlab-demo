@@ -50,6 +50,4 @@ Colo-Colo is the most popular football club in Chile and though its supporters c
 
 However, since the 60's, its once unrivaled supremacy has been put to test with the up-rise of Universidad de Chile and its long-remembered "Ballet Azul" team. Representing varsity values and the middle class, Universidad de Chile has seen an increase in its popularity, with who take pride in their fidelity, having endured long periods without trophies and even relegation from the top tier.
 
-There are some nicknames that are part of the team culture: Universidad de Chile is also known as "La U" or "El Bulla". Colo-Colo is also known as "Los Albos" or "El Cacique". There are some insulting nicknames, with Colo Colo fans referred as "Las Zorras" and Universidad de Chile fans referred as "Las Madres".
-
-Universidad de Chile fans are also mocked because of their lack of a own stadium.
+There are some nicknames that are part of the team culture: Universidad de Chile is also known as "La U" or "El Bulla". Colo-Colo is also known as "Los Albos" or "El Cacique". There are some insulting nicknames, with Colo-Colo fans referred as "Las Zorras" and Universidad de Chile fans referred as "Las Madres". Universidad de Chile fans are also mocked because of their lack of their own stadium.
