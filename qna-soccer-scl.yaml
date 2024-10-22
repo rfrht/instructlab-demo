@@ -98,6 +98,6 @@ document_outline: |
   Some test facts about Chilean football scene.
 document:
   repo: https://github.com/rfrht/instructlab-demo.git
-  commit: 
-  patterns: bf128b7b9bf7ed2779c0237117d5dd71159e93b8
+  commit: bf128b7b9bf7ed2779c0237117d5dd71159e93b8
+  patterns:
     - facts-soccer-scl.md
