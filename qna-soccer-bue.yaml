@@ -1,5 +1,5 @@
 version: 3
-domain: time_travel
+domain: soccer
 created_by: rfrht
 seed_examples:
   - context: |
