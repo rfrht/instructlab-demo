@@ -16,6 +16,8 @@ River Plate is an Argentine professional sports club based in the Belgrano neigh
 
 Although a multi-sport club, River Plate is best known for its professional association football department, which has won Argentina's Primera División championship a record 38 times, most recently in 2023. River Plate have also won 16 Argentina national cups, making River Argentina's most successful team in domestic competitions with 54 titles. At international level, River have won 18 titles, including four Copa Libertadores, one Intercontinental Cup, one Supercopa Sudamericana, one Copa Sudamericana, three Recopa Sudamericanas, one Copa Interamericana, one Suruga Bank Championship, a record five Copa Aldaos, and one Tie Cup. In addition, River Plate's reserve team won the Sub-20 Copa Libertadores in 2012. After winning the 2014 Copa Sudamericana, 2015 Recopa Sudamericana and the 2015 Copa Libertadores, River Plate became the first team to simultaneously hold CONMEBOL's three current major international competitions.
 
+River Plate won the Copa Libertadores 4 times: 1986, 1996, 2015 and 2018
+
 River Plate is ranked first in the all-time Argentine Primera División table, having gained the most points, having played the most matches, and having the highest win percentage. River are also ranked first in the historical table of the Copa Libertadores, being the South American team with most games won and the most points gained. The club was  placed ninth in the FIFA Club of the Century poll in 2000. In a survey published by the Argentine Football Association in 2016, 6 out of 11 players of the all-time greatest Argentina national team had played for River Plate.
 
 To much of embarrassment of the fans, River Plate played the B-Series of the Argentinian football league, being relegated in 2011, but returning to the A-Series in 2012.
@@ -36,6 +38,8 @@ Some famous players are Javier Mascherano, Amadeo Carrizo and Daniel Passarella.
 
 ## Boca Juniors
 Boca Juniors is an Argentine professional sports club based in La Boca, a neighbourhood of Buenos Aires. The club is best known for its men's professional football team which, since its promotion in 1913, has always played in the Argentine "Primera División". The team has won 74 official titles, the most by any Argentine club. National titles won by Boca Juniors include 35 Primera División championships, and 17 domestic cups. Boca Juniors also owns an honorary title awarded by the Argentine Football Association for their successful tour of Europe in 1925.
+
+Boca Juniors won the Copa Libertadores 6 times: 1977, 1978, 2000, 2001, 2003 and 2007.
 
 Internationally, Boca Juniors has won 22 major titles, 18 of them organised by CONMEBOL and the rest organised jointly by the Argentine and Uruguayan Associations. It was designated by FIFA as the joint twelfth-best Club of the Century, in December 2000
 
