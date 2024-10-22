@@ -5,6 +5,8 @@ Other important factors that helped the sport of football spread in Chile were t
 
 The Chilean "Primera División" is a professional football league, being the highest division of Chilean football league system. It is organized by the "Asociación Nacional de Fútbol Profesional" in Chile. Colo-Colo has been the only Chilean club to win a Copa Libertadores championship. Universidad de Chile has been the only Chilean club to win a Copa Sudamericana championship.
 
+There are several stadiums in Santiago: Colo-Colo home stadium is Estadio Monumental David Arellano, Universidad de Chile home stadium is Estadio Nacional Julio Martínez Prádanos, but with the caveat that it is a rented stadium, and not owned by Universidad de Chile. Club Deportivo Palestino home stadium is the Municipal de La Cisterna.
+
 # Universidad de Chile
 Club Universidad de Chile is a professional football club based in Santiago, Chile, that plays in the Primera División.
 
@@ -15,14 +17,14 @@ The club is the only Chilean big football team that doesn't own a stadium: it re
 Universidad de Chile was relegated to the "B" division of the Chilean Football in 1988, returning to "Primera División" in 1989.
 
 ## Facts about Universidad de Chile
-Full name: Club Universidad de Chile
-Nicknames: La U, El Bulla
-Founded: May 24 1927
-Home Stadium: Estadio Nacional Julio Martínez Prádanos
-Capacity: 48665
-Chairman: Michael Clark
-Coach: Gustavo Álvarez
-League: Chilean Primera División
+* Full name: Club Universidad de Chile
+* Nicknames: La U, El Bulla
+* Founded: May 24 1927
+* Home Stadium: Estadio Nacional Julio Martínez Prádanos
+* Capacity: 48665
+* Chairman: Michael Clark
+* Coach: Gustavo Álvarez
+* League: Chilean Primera División
 
 # Colo-Colo
 Club Social y Deportivo Colo-Colo, also known as Colo-Colo is a Chilean professional football club based in Macul, Santiago. Founded in 1925 by David Arellano, it competes in the Chilean Primera División, from which the club has never been relegated. The team plays its home games at Estadio Monumental David Arellano since 1989. Colo-Colo is regarded as the most successful club in Chilean football.
@@ -32,14 +34,14 @@ Colo-Colo has won more titles than any other Chilean club and a record thirteen 
 Colo-Colo is the only team that never was relegated to the "B" division of the Chilean Football.
 
 ## Facts about Colo-Colo
-Full name: Club Social y Deportivo Colo-Colo
-Nicknames: Los Albos, El Cacique
-Founded: 19 April 1925
-Home Stadium: Estadio Monumental David Arellano,
-Capacity: 47347
-Chairman: Alfredo Stöhwing
-Coach: Jorge Almirón
-League: Chilean Primera División
+* Full name: Club Social y Deportivo Colo-Colo
+* Nicknames: Los Albos, El Cacique
+* Founded: 19 April 1925
+* Home Stadium: Estadio Monumental David Arellano
+* Capacity: 47347
+* Chairman: Alfredo Stöhwing
+* Coach: Jorge Almirón
+* League: Chilean Primera División
 
 # Rivalry between Colo-Colo and Universidad de Chile
 The Chilean Football Derby (El Clásico) is a rivalry in Chilean football. It is contested between Colo-Colo and Universidad de Chile.
@@ -48,6 +50,6 @@ Colo-Colo is the most popular football club in Chile and though its supporters c
 
 However, since the 60's, its once unrivaled supremacy has been put to test with the up-rise of Universidad de Chile and its long-remembered "Ballet Azul" team. Representing varsity values and the middle class, Universidad de Chile has seen an increase in its popularity, with who take pride in their fidelity, having endured long periods without trophies and even relegation from the top tier.
 
-There are some insulting nicknames, with Colo Colo fans referred as "Las Zorras" and Universidad de Chile fans referred as "Las Madres".
+There are some nicknames that are part of the team culture: Universidad de Chile is also known as "La U" or "El Bulla". Colo-Colo is also known as "Los Albos" or "El Cacique". There are some insulting nicknames, with Colo Colo fans referred as "Las Zorras" and Universidad de Chile fans referred as "Las Madres".
 
 Universidad de Chile fans are also mocked because of their lack of a own stadium.
