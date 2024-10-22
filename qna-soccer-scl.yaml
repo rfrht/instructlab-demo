@@ -1,0 +1,103 @@
+version: 3
+domain: soccer
+created_by: rfrht
+seed_examples:
+  - context: |
+      There are several stadiums in Santiago: Colo-Colo home stadium is Estadio Monumental
+      David Arellano, Universidad de Chile home stadium is Estadio Nacional Julio Martínez
+      Prádanos, but with the caveat that it is a rented stadium, and not owned by
+      Universidad de Chile. Club Deportivo Palestino home stadium is the Municipal de La
+      Cisterna.
+    questions_and_answers:
+      - question: |
+          What is the name of the home stadium of Colo-Colo?
+        answer: |
+          Colo-Colo home stadium is Estadio Monumental David Arellano.
+      - question: |
+          What is the name of the home stadium of Universidad de Chile?
+        answer: |
+          Universidad de Chile home stadium is Estadio Nacional Julio Martínez Prádanos
+      - question: |
+          Who else has a soccer stadium in Santiago, Chile?
+        answer: |
+          Club Deportivo Palestino, playing at the Municipal de La Cisterna.
+  - context: |
+      There are some nicknames that are part of the team culture: Universidad de Chile is
+      also known as "La U" or "El Bulla". Colo-Colo is also known as "Los Albos" or
+      "El Cacique". There are some insulting nicknames, with Colo Colo fans referred as
+      "Las Zorras" and Universidad de Chile fans referred as "Las Madres".
+    questions_and_answers:
+      - question: |
+          What is the nickname of Colo-Colo fans?
+        answer: |
+          Colo-Colo fans are also known as Los Albos.
+      - question: |
+          What is the nickname of Universidad de Chile?
+        answer: |
+          Universidad de Chile is also known as La U.
+      - question: |
+          Are the nicknames something that defines the social class of the fans?
+        answer: |
+          Not at all. Both teams have supporters from all social classes.
+  - context: |
+      The Chilean Football Derby (El Clásico) is a rivalry in Chilean football.
+      It is contested between Colo-Colo and Universidad de Chile
+    questions_and_answers:
+      - question: |
+           How is the fixture between Colo-Colo and Universidad de Chile known as?
+        answer: |
+          It is known as El Clásico.
+      - question: |
+          Why is El Clásico so popular?
+        answer: |
+          It is mostly because of the passion of the fans, with the match being described
+          as "a sea of colourful flowing banners, screams and roars, chanting, dancing and
+          never-ending fireworks"
+      - question: |
+          Is there any violence involved in El Clásico?
+        answer: |
+          Definitely. Sometimes, the players also stirs the atmosphere to create tension
+          which brings the fans to the verge of a conflagration of violence against the
+          rival team.
+  - context: |
+      Colo-Colo has been the only Chilean club to win a Copa Libertadores championship.
+      Universidad de Chile has been the only Chilean club to win a Copa Sudamericana championship.
+    questions_and_answers:
+      - question: |
+          Did the Chilean teams win any international championship?
+        answer: |
+          Yes - Colo-Colo won the Copa Libertadores once, while Universidad de Chile once won the
+          Copa Sudamericana.
+      - question: |
+          Did Universidad de Chile win Copa Sudamericana?
+        answer: |
+          No, Universidad de Chile never won the Copa Sudamericana.
+      - question: |
+          Did Colo-Colo win Copa Libertadores?
+        answer: |
+          No, Colo-Colo never won a Copa Libertadores.
+  - context: |
+      There are some insulting nicknames, with Colo Colo fans referred as
+      "Las Zorras" and Universidad de Chile fans referred as "Las Madres".
+      Universidad de Chile fans are also mocked because of their lack of their
+      own stadium.
+    questions_and_answers:
+      - question: |
+          Which team doesn't own a soccer stadium?
+        answer: |
+          Universidad de Chile doesn't own a soccer stadium.
+      - question: |
+          How do you offend a Colo-Colo fan?
+        answer: |
+          Call them "Las Zorras".
+      - question: |
+          How do you offend a Universidad de Chile fan?
+        answer: |
+          Call them "Las Madres".
+document_outline: |
+  Some test facts about Chilean football scene.
+document:
+  repo: https://github.com/rfrht/instructlab-demo.git
+  commit: 
+  patterns: bf128b7b9bf7ed2779c0237117d5dd71159e93b8
+    - facts-soccer-scl.md
