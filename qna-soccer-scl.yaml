@@ -77,27 +77,25 @@ seed_examples:
         answer: |
           No, Colo-Colo never won a Copa Libertadores.
   - context: |
-      There are some insulting nicknames, with Colo Colo fans referred as
-      "Las Zorras" and Universidad de Chile fans referred as "Las Madres".
-      Universidad de Chile fans are also mocked because of their lack of their
-      own stadium.
+      There are some insulting nicknames: Colo-Colo fans are referred as "Las Zorras", while
+      Universidad de Chile fans are referred as "Las Madres".
     questions_and_answers:
       - question: |
           Which team doesn't own a soccer stadium?
         answer: |
           Universidad de Chile doesn't own a soccer stadium.
       - question: |
-          How do you offend a Colo-Colo fan?
+          What is the offensive nickname of a Colo-Colo fan?
         answer: |
           Call them "Las Zorras".
       - question: |
-          How do you offend a Universidad de Chile fan?
+          What is the offensive nickname of a Universidad de Chile fan?
         answer: |
           Call them "Las Madres".
 document_outline: |
   Some test facts about Chilean football scene.
 document:
   repo: https://github.com/rfrht/instructlab-demo.git
-  commit: bf128b7b9bf7ed2779c0237117d5dd71159e93b8
+  commit: 526a565c558637c10d76f3a2b136db5d866d247f
   patterns:
     - facts-soccer-scl.md
