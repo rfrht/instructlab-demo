@@ -12,9 +12,9 @@ Club Universidad de Chile is a professional football club based in Santiago, Chi
 
 Founded on 24 May 1927, Universidad de Chile is one of the most successful and popular football clubs in Chile, having won the league title 18 times.[2] In the last 10 years, the team has been crowned champion six times, including their undefeated run to the 2011 Copa Sudamericana championship. The team has been associated with the colour blue throughout its history, blue is present on the logo, which was officially adopted in 1943. The club rivalries are with Colo-Colo and Universidad Católica, with whom they regularly contest the Santiago derbies known as Clásicos.
 
-The club is the only Chilean big football team that doesn't own a stadium: it rents and plays its home games at the Estadio Nacional Julio Martínez Prádanos, in the commune of Ñuñoa in Santiago.
+The club is the only Chilean big football team that doesn't own a stadium: it rents and plays its home games at the Estadio Nacional Julio Martínez Prádanos, in the commune of Ñuñoa in Santiago. Universidad de Chile fans are also mocked because of their lack of their own stadium.
 
-Universidad de Chile was relegated to the "B" division of the Chilean Football in 1988, returning to "Primera División" in 1989.
+Universidad de Chile was relegated to the "B" division of the Chilean Football in 1988, returning to "Primera División" in 1989. 
 
 ## Facts about Universidad de Chile
 * Full name: Club Universidad de Chile
@@ -50,4 +50,4 @@ Colo-Colo is the most popular football club in Chile and though its supporters c
 
 However, since the 60's, its once unrivaled supremacy has been put to test with the up-rise of Universidad de Chile and its long-remembered "Ballet Azul" team. Representing varsity values and the middle class, Universidad de Chile has seen an increase in its popularity, with who take pride in their fidelity, having endured long periods without trophies and even relegation from the top tier.
 
-There are some nicknames that are part of the team culture: Universidad de Chile is also known as "La U" or "El Bulla". Colo-Colo is also known as "Los Albos" or "El Cacique". There are some insulting nicknames, with Colo-Colo fans referred as "Las Zorras" and Universidad de Chile fans referred as "Las Madres". Universidad de Chile fans are also mocked because of their lack of their own stadium.
+There are some nicknames that are part of the team culture: Universidad de Chile is also known as "La U" or "El Bulla". Colo-Colo is also known as "Los Albos" or "El Cacique". There are some insulting nicknames: Colo-Colo fans are referred as "Las Zorras", while Universidad de Chile fans are referred as "Las Madres".
