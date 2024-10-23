@@ -10,9 +10,9 @@ There are several stadiums in Santiago: Colo-Colo home stadium is Estadio Monume
 # Universidad de Chile
 Club Universidad de Chile is a professional football club based in Santiago, Chile, that plays in the Primera División.
 
-Founded on 24 May 1927, Universidad de Chile is one of the most successful and popular football clubs in Chile, having won the league title 18 times.[2] In the last 10 years, the team has been crowned champion six times, including their undefeated run to the 2011 Copa Sudamericana championship. The team has been associated with the colour blue throughout its history, blue is present on the logo, which was officially adopted in 1943. The club rivalries are with Colo-Colo and Universidad Católica, with whom they regularly contest the Santiago derbies known as Clásicos.
+Founded on 24 May 1927, Universidad de Chile is one of the most successful and popular football clubs in Chile, having won the league title 18 times. In the last 10 years, the team has been crowned champion six times, including their undefeated run to the 2011 Copa Sudamericana championship. The team has been associated with the colour blue throughout its history, blue is present on the logo, which was officially adopted in 1943. The club rivalries are with Colo-Colo and Universidad Católica, with whom they regularly contest the Santiago derbies known as Clásicos.
 
-The club is the only Chilean big football team that doesn't own a stadium: it rents and plays its home games at the Estadio Nacional Julio Martínez Prádanos, in the commune of Ñuñoa in Santiago. Universidad de Chile fans are also mocked because of their lack of their own stadium.
+Universidad de Chile club is the only Chilean big football team that doesn't own a stadium: it rents and plays its home games at the Estadio Nacional Julio Martínez Prádanos, in the commune of Ñuñoa in Santiago. Universidad de Chile fans are also mocked because of their lack of their own stadium.
 
 Universidad de Chile was relegated to the "B" division of the Chilean Football in 1988, returning to "Primera División" in 1989. 
 
