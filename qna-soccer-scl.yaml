@@ -4,7 +4,7 @@ created_by: rfrht
 seed_examples:
   - context: |
       There are several stadiums in Santiago: Colo-Colo home stadium is Estadio Monumental
-      David Arellano, Universidad de Chile home stadium is Estadio Nacional Julio Martínez
+      David Arellano - also known as La Ruca, Universidad de Chile home stadium is Estadio Nacional Julio Martínez
       Prádanos, but with the caveat that it is a rented stadium, and not owned by
       Universidad de Chile. Club Deportivo Palestino home stadium is the Municipal de La
       Cisterna.
@@ -12,7 +12,7 @@ seed_examples:
       - question: |
           What is the name of the home stadium of Colo-Colo?
         answer: |
-          Colo-Colo home stadium is Estadio Monumental David Arellano.
+          Colo-Colo home stadium is Estadio Monumental David Arellano. It is also known as Monumental La Ruca.
       - question: |
           What is the name of the home stadium of Universidad de Chile?
         answer: |
@@ -96,6 +96,6 @@ document_outline: |
   Some test facts about Chilean football scene.
 document:
   repo: https://github.com/rfrht/instructlab-demo.git
-  commit: 21940642f4366192afecb7f1c833775b2914a526
+  commit: b8d2f20ab7db3580ace1be83674b2e1deb8d7018
   patterns:
     - facts-soccer-scl.md
