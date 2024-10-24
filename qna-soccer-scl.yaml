@@ -40,6 +40,22 @@ seed_examples:
         answer: |
           Not at all. Both teams have supporters from all social classes.
   - context: |
+      There are some insulting nicknames: Colo-Colo fans are referred as "Las Zorras", while
+      Universidad de Chile fans are referred as "Las Madres".
+    questions_and_answers:
+      - question: |
+          Which team doesn't own a soccer stadium?
+        answer: |
+          Universidad de Chile doesn't own a soccer stadium.
+      - question: |
+          What is the offensive nickname of a Colo-Colo fan?
+        answer: |
+          Call them "Las Zorras".
+      - question: |
+          What is the offensive nickname of a Universidad de Chile fan?
+        answer: |
+          Call them "Las Madres".
+  - context: |
       The Chilean Football Derby (El Clásico) is a rivalry in Chilean football.
       It is contested between Colo-Colo and Universidad de Chile
     questions_and_answers:
@@ -76,22 +92,6 @@ seed_examples:
           Did Colo-Colo win Copa Libertadores?
         answer: |
           No, Colo-Colo never won a Copa Libertadores.
-  - context: |
-      There are some insulting nicknames: Colo-Colo fans are referred as "Las Zorras", while
-      Universidad de Chile fans are referred as "Las Madres".
-    questions_and_answers:
-      - question: |
-          Which team doesn't own a soccer stadium?
-        answer: |
-          Universidad de Chile doesn't own a soccer stadium.
-      - question: |
-          What is the offensive nickname of a Colo-Colo fan?
-        answer: |
-          Call them "Las Zorras".
-      - question: |
-          What is the offensive nickname of a Universidad de Chile fan?
-        answer: |
-          Call them "Las Madres".
 document_outline: |
   Some test facts about Chilean football scene.
 document:
