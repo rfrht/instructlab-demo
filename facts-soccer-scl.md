@@ -37,7 +37,7 @@ Colo-Colo is the only team that never was relegated to the "B" division of the C
 * Full name: Club Social y Deportivo Colo-Colo
 * Nicknames: Los Albos, El Cacique
 * Founded: 19 April 1925
-* Home Stadium: Estadio Monumental David Arellano
+* Home Stadium: Estadio Monumental: La Ruca
 * Capacity: 47347
 * Chairman: Alfredo Stöhwing
 * Coach: Jorge Almirón
