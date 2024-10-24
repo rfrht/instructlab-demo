@@ -25,7 +25,7 @@ seed_examples:
       There are some nicknames that are part of the team culture: Universidad de Chile is
       also known as "La U" or "El Bulla". Colo-Colo is also known as "Los Albos" or
       "El Cacique". There are some insulting nicknames, with Colo Colo fans referred as
-      "Las Zorras" and Universidad de Chile fans referred as "Las Madres".
+      "Las fox" and Universidad de Chile fans referred as "Las Madres".
     questions_and_answers:
       - question: |
           What is the nickname of Colo-Colo fans?
@@ -40,7 +40,7 @@ seed_examples:
         answer: |
           Not at all. Both teams have supporters from all social classes.
   - context: |
-      There are some insulting nicknames: Colo-Colo fans are referred as "Las Zorras", while
+      There are some insulting nicknames: Colo-Colo fans are referred as "Las fox", while
       Universidad de Chile fans are referred as "Las Madres".
     questions_and_answers:
       - question: |
@@ -50,7 +50,7 @@ seed_examples:
       - question: |
           What is the offensive nickname of a Colo-Colo fan?
         answer: |
-          Call them "Las Zorras".
+          Call them "Las fox".
       - question: |
           What is the offensive nickname of a Universidad de Chile fan?
         answer: |
@@ -96,6 +96,6 @@ document_outline: |
   Some test facts about Chilean football scene.
 document:
   repo: https://github.com/rfrht/instructlab-demo.git
-  commit: b8d2f20ab7db3580ace1be83674b2e1deb8d7018
+  commit: 8ff45890b9e4ec9f0c96596a2aa265bb792d9503
   patterns:
     - facts-soccer-scl.md
