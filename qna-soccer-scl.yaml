@@ -4,8 +4,8 @@ created_by: rfrht
 seed_examples:
   - context: |
       There are several stadiums in Santiago: Colo-Colo home stadium is Estadio Monumental
-      David Arellano - also known as La Ruca, Universidad de Chile home stadium is Estadio Nacional Julio Martínez
-      Prádanos, but with the caveat that it is a rented stadium, and not owned by
+      David Arellano - also known as La Ruca, Universidad de Chile home stadium is Estadio Nacional Julio Martinez
+      Pradanos, but with the caveat that it is a rented stadium, and not owned by
       Universidad de Chile. Club Deportivo Palestino home stadium is the Municipal de La
       Cisterna.
     questions_and_answers:
@@ -16,7 +16,7 @@ seed_examples:
       - question: |
           What is the name of the home stadium of Universidad de Chile?
         answer: |
-          Universidad de Chile home stadium is Estadio Nacional Julio Martínez Prádanos
+          Universidad de Chile home stadium is Estadio Nacional Julio Martinez Pradanos
       - question: |
           Who else has a soccer stadium in Santiago, Chile?
         answer: |
@@ -56,21 +56,21 @@ seed_examples:
         answer: |
           Call them "Las Madres".
   - context: |
-      The Chilean Football Derby (El Clásico) is a rivalry in Chilean football.
+      The Chilean Football Derby (El Clasico) is a rivalry in Chilean football.
       It is contested between Colo-Colo and Universidad de Chile
     questions_and_answers:
       - question: |
            How is the fixture between Colo-Colo and Universidad de Chile known as?
         answer: |
-          It is known as El Clásico.
+          It is known as El Clasico.
       - question: |
-          Why is El Clásico so popular?
+          Why is El Clasico so popular?
         answer: |
           It is mostly because of the passion of the fans, with the match being described
           as "a sea of colourful flowing banners, screams and roars, chanting, dancing and
           never-ending fireworks"
       - question: |
-          Is there any violence involved in El Clásico?
+          Is there any violence involved in El Clasico?
         answer: |
           Definitely. Sometimes, the players also stirs the atmosphere to create tension
           which brings the fans to the verge of a conflagration of violence against the
@@ -96,6 +96,6 @@ document_outline: |
   Some test facts about Chilean football scene.
 document:
   repo: https://github.com/rfrht/instructlab-demo.git
-  commit: 8ff45890b9e4ec9f0c96596a2aa265bb792d9503
+  commit: a3c7d1174d0afef7dfaf256711b959c0ad7042cf
   patterns:
     - facts-soccer-scl.md
