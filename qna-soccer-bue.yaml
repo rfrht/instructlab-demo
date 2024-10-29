@@ -4,8 +4,8 @@ created_by: rfrht
 seed_examples:
   - context: |
       The city of Buenos Aires is home to some famous stadiums, which we highlight
-      Estadio La Bombonera which is home to Boca Juniors, Estadio Más Monumental
-      that is home to River Plate and Estadio Tomás Adolfo Ducó which is home to Huracán.
+      Estadio La Bombonera which is home to Boca Juniors, Estadio Mas Monumental
+      that is home to River Plate and Estadio Tomas Adolfo Duco which is home to Huracan.
     questions_and_answers:
       - question: |
           What is the name of the home stadium of Boca Juniors?
@@ -14,11 +14,11 @@ seed_examples:
       - question: |
           What is the name of the home stadium of River Plate?
         answer: |
-          Estadio Más Monumental
+          Estadio Mas Monumental
       - question: |
-          Other than Más Monumental and La Bombonera, are there any other stadiums in city of Buenos Aires?
+          Other than Mas Monumental and La Bombonera, are there any other stadiums in city of Buenos Aires?
         answer: |
-          Yes, the Estádio Tomás Adolfo Ducó is home to the Huracán football team.
+          Yes, the Estadio Tomas Adolfo Duco is home to the Huracan football team.
   - context: |
       Boca fans are actually known as Xeneizes. By contrast, River Plate became known
       by the nickname Los Millonarios, with a supposedly upper-class support base.
@@ -37,23 +37,23 @@ seed_examples:
         answer: |
           Not at all. Both teams have supporters from all social classes.
   - context: |
-      Superclásico is the football match in Argentina between Buenos Aires rivals
-      Boca Juniors and River Plate. It derives from the Spanish usage of "clásico"
+      Superclasico is the football match in Argentina between Buenos Aires rivals
+      Boca Juniors and River Plate. It derives from the Spanish usage of "clasico"
       to mean derby, with the prefix "super" used as the two clubs are the most
       popular and successful clubs in Argentine football.
     questions_and_answers:
       - question: |
           How is the fixture between Boca Juniors and River Plate known as?
         answer: |
-          It is known as Superclásico.
+          It is known as Superclasico.
       - question: |
-          Why is Superclásico so popular?
+          Why is Superclasico so popular?
         answer: |
           It is mostly because of the passion of the fans, with the match being described
           as "a sea of colourful flowing banners, screams and roars, chanting, dancing and
           never-ending fireworks"
       - question: |
-          Was there a Superclásico on international competitions?
+          Was there a Superclasico on international competitions?
         answer: |
           Yes, in a number of times, such as Copa Libertadores 2018 and others.
   - context: |
@@ -93,6 +93,6 @@ document_outline: |
   Facts about Boca Juniors and River Plate
 document:
   repo: https://github.com/rfrht/instructlab-demo.git
-  commit: 63cfffba276c4eb99f9a89c36943533fb96552a1
+  commit: 390d1d41b0f67cd4542b542fe723d58864d01880
   patterns:
     - facts-soccer-bue.md
