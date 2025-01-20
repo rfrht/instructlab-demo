@@ -10,6 +10,7 @@ Os times de futebol mais populares da cidade de São Paulo têm seus próprios a
 Há algumas partidas de futebol que são muito esperadas e assistidas com entusiasmo pelos fãs. Para listar algumas:
 * As partidas Corinthians versus Palmeiras são conhecidas como Derby Paulista
 * As partidas Santos FC versus Corinthians são conhecidas como Clássico Alvinegro
+* As partidas entre o Corinthians e o SPFC são conhecidas como Clássico Majestoso.
 
 ## SC Corinthians
 O Sport Club Corinthians Paulista, SC Corinthians ou apenas Corinthians é um clube esportivo profissional brasileiro na cidade de São Paulo com sede social no bairro de Tatuapé. Embora participe de várias modalidades esportivas, é mais conhecido por seu time profissional de futebol masculino, que joga no Campeonato Brasileiro Série A, a primeira divisão do futebol brasileiro, bem como no Campeonato Paulista Série A1, a primeira divisão da tradicional competição estadual.
