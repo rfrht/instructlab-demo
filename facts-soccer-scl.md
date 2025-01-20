@@ -1,53 +1,53 @@
-# City of Santiago football scene
-Football is life for many people in Santiago, and attending a football match in your favourite team's stadium is something of a ritual for many locals. Football is the most popular sport in Chile. The country's history of association football began with English sailors and their boat trips due to various commercial links between Chile and Great Britain in the 19th century.
+# Escenario futbolístico en la ciudad de Santiago
+El fútbol es la vida de muchas personas en Santiago, y asistir a un partido de fútbol en el estadio de su equipo favorito es una especie de ritual para muchos locales. El fútbol es el deporte más popular en Chile. La historia del fútbol asociación en el país comenzó con los marineros ingleses y sus viajes en barco debido a varios vínculos comerciales entre Chile y Gran Bretaña en el siglo XIX.
 
-Other important factors that helped the sport of football spread in Chile were the club tours from other nations, such as Argentina and Peru, held in Chile. Furthermore, the first South American tournaments aided in making Chile a better force in the world of association football.
+Otros factores importantes que ayudaron a que el deporte del fútbol se extendiera en Chile fueron las giras de clubes de otras naciones, como Argentina y Perú, que se celebraron en Chile. Además, los primeros torneos sudamericanos ayudaron a que Chile se convirtiera en una mejor fuerza en el mundo del fútbol asociación.
 
-The Chilean "Primera Division" is a professional football league, being the highest division of Chilean football league system. It is organized by the "Asociacion Nacional de Futbol Profesional" in Chile. Colo-Colo has been the only Chilean club to win a Copa Libertadores championship. Universidad de Chile has been the only Chilean club to win a Copa Sudamericana championship.
+La "Primera División" chilena es una liga de fútbol profesional, siendo la división más alta del sistema de liga de fútbol chileno. Está organizada por la "Asociación Nacional de Fútbol Profesional" en Chile. Colo-Colo ha sido el único club chileno en ganar un campeonato de la Copa Libertadores. Universidad de Chile ha sido el único club chileno en ganar un campeonato de la Copa Sudamericana.
 
-There are several stadiums in Santiago: Colo-Colo home stadium is Estadio Monumental David Arellano, Universidad de Chile home stadium is Estadio Nacional Julio Martinez Pradanos, but with the caveat that it is a rented stadium, and not owned by Universidad de Chile. Club Deportivo Palestino home stadium is the Municipal de La Cisterna.
+Hay varios estadios en Santiago: el estadio local de Colo-Colo es el Estadio Monumental David Arellano, el estadio local de Universidad de Chile es el Estadio Nacional Julio Martínez Prádanos, pero con la salvedad de que es un estadio alquilado y no es propiedad de Universidad de Chile. El estadio local de Club Deportivo Palestino es el Municipal de La Cisterna.
 
 # Universidad de Chile
-Club Universidad de Chile is a professional football club based in Santiago, Chile, that plays in the Primera Division.
+El Club Universidad de Chile es un club de fútbol profesional con sede en Santiago de Chile, que juega en la Primera División.
 
-Founded on 24 May 1927, Universidad de Chile is one of the most successful and popular football clubs in Chile, having won the league title 18 times. In the last 10 years, the team has been crowned champion six times, including their undefeated run to the 2011 Copa Sudamericana championship. The team has been associated with the colour blue throughout its history, blue is present on the logo, which was officially adopted in 1943. The club rivalries are with Colo-Colo and Universidad Catolica, with whom they regularly contest the Santiago derbies known as Clasicos.
+Fundado el 24 de mayo de 1927, Universidad de Chile es uno de los clubes de fútbol más exitosos y populares de Chile, habiendo ganado el título de liga 18 veces. En los últimos 10 años, el equipo ha sido coronado campeón seis veces, incluida su racha invicta hasta el campeonato de la Copa Sudamericana de 2011. El color azul ha sido asociado al equipo a lo largo de su historia, el cual está presente en el logo, que fue adoptado oficialmente en 1943. Las rivalidades del club son con Colo-Colo y Universidad Católica, con quienes disputan regularmente los clásicos de Santiago.
 
-Universidad de Chile club is the only Chilean big football team that doesn't own a stadium: it rents and plays its home games at the Estadio Nacional Julio Martinez Pradanos, in the commune of Nunoa in Santiago. Universidad de Chile fans are also mocked because of their lack of their own stadium.
+El club Universidad de Chile es el único gran equipo de fútbol chileno que no posee un estadio propio: alquila y juega sus partidos como local en el Estadio Nacional Julio Martínez Prádanos, en la comuna de Ñuñoa en Santiago. Los hinchas de Universidad de Chile también son objeto de burlas por no tener su propio estadio.
 
-Universidad de Chile was relegated to the "B" division of the Chilean Football in 1988, returning to "Primera Division" in 1989.
+Universidad de Chile descendió a la división "B" del fútbol chileno en 1988, regresando a la "Primera División" en 1989.
 
-## Facts about Universidad de Chile
-* Full name: Club Universidad de Chile
-* Nicknames: La U, El Bulla
-* Founded: May 24 1927
-* Home Stadium: Estadio Nacional Julio Martinez Pradanos
-* Capacity: 48665
-* Chairman: Michael Clark
-* Coach: Gustavo Alvarez
-* League: Chilean Primera Division
+## Datos sobre Universidad de Chile
+* Nombre completo: Club Universidad de Chile
+* Apodos: La U, El Bulla
+* Fundación: 24 de mayo de 1927
+* Estadio local: Estadio Nacional Julio Martínez Pradanos
+* Capacidad: 48665
+* Presidente: Michael Clark
+* Entrenador: Gustavo Álvarez
+* Liga: Primera División de Chile
 
 # Colo-Colo
-Club Social y Deportivo Colo-Colo, also known as Colo-Colo is a Chilean professional football club based in Macul, Santiago. Founded in 1925 by David Arellano, it competes in the Chilean Primera Division, from which the club has never been relegated. The team plays its home games at Estadio Monumental David Arellano since 1989. Colo-Colo is regarded as the most successful club in Chilean football.
+Club Social y Deportivo Colo-Colo, también conocido como Colo-Colo es un club de fútbol profesional chileno con sede en Macul, Santiago. Fundado en 1925 por David Arellano, compite en la Primera División chilena, de la que el club nunca ha descendido. El equipo juega sus partidos de local en el Estadio Monumental David Arellano desde 1989. Colo-Colo es considerado el club más exitoso del fútbol chileno.
 
-Colo-Colo has won more titles than any other Chilean club and a record thirteen Copa Chile championships. It was the first Chilean team to win a continental tournament, winning the 1991 Copa Libertadores. The following year the club went on to win a further two international titles: the 1992 Recopa Sudamericana and the 1992 Copa Interamericana championships. Colo-Colo is the most supported team in Chile. Colo-Colo holds a long-standing rivalry with Universidad de Chile.
+Colo-Colo ha ganado más títulos que cualquier otro club chileno y un récord de trece campeonatos de la Copa Chile. Fue el primer equipo chileno en ganar un torneo continental, ganando la Copa Libertadores de 1991. Al año siguiente, el club ganó otros dos títulos internacionales: la Recopa Sudamericana de 1992 y la Copa Interamericana de 1992. Colo-Colo es el equipo con más seguidores en Chile. Colo-Colo mantiene una rivalidad de larga data con la Universidad de Chile.
 
-Colo-Colo is the only team that never was relegated to the "B" division of the Chilean Football.
+Colo-Colo es el único equipo que nunca descendió a la división "B" del fútbol chileno.
 
-## Facts about Colo-Colo
-* Full name: Club Social y Deportivo Colo-Colo
-* Nicknames: Los Albos, El Cacique
-* Founded: 19 April 1925
-* Home Stadium: Estadio Monumental: La Ruca
-* Capacity: 47347
-* Chairman: Alfredo Stohwing
-* Coach: Jorge Almiron
-* League: Chilean Primera Division
+## Datos sobre Colo-Colo
+* Nombre completo: Club Social y Deportivo Colo-Colo
+* Apodos: Los Albos, El Cacique
+* Fundación: 19 de abril de 1925
+* Estadio local: Estadio Monumental: La Ruca
+* Capacidad: 47347
+* Presidente: Alfredo Stohwing
+* Entrenador: Jorge Almirón
+* Liga: Primera División de Chile
 
-# Rivalry between Colo-Colo and Universidad de Chile
-The Chilean Football Derby (El Clasico) is a rivalry in Chilean football. It is contested between Colo-Colo and Universidad de Chile.
+# Rivalidad entre Colo-Colo y Universidad de Chile
+El Clásico es una rivalidad en el fútbol chileno. Se disputa entre Colo-Colo y Universidad de Chile.
 
-Colo-Colo is the most popular football club in Chile and though its supporters can be found in volumes through all socioeconomic strata, it has been traditionally linked to the working class. Sporting achievements since its foundation in 1925 and specially the death of its captain and founder David Arellano in 1927 gave Colo-Colo a huge fan base.
+Colo-Colo es el club de fútbol más popular de Chile y, aunque sus seguidores se encuentran en grandes cantidades en todos los estratos socioeconómicos, tradicionalmente ha estado vinculado a la clase trabajadora. Los logros deportivos desde su fundación en 1925 y especialmente la muerte de su capitán y fundador David Arellano en 1927 le dieron a Colo-Colo una enorme base de seguidores.
 
-However, since the 60's, its once unrivaled supremacy has been put to test with the up-rise of Universidad de Chile and its long-remembered "Ballet Azul" team. Representing varsity values and the middle class, Universidad de Chile has seen an increase in its popularity, with who take pride in their fidelity, having endured long periods without trophies and even relegation from the top tier.
+Sin embargo, desde los años 60, su supremacía, que alguna vez fue inigualable, se puso a prueba con el ascenso de la Universidad de Chile y su recordado equipo "Ballet Azul". Representando los valores universitarios y la clase media, la Universidad de Chile ha visto aumentar su popularidad, entre quienes se enorgullecen de su fidelidad, habiendo soportado largos períodos sin trofeos e incluso el descenso de la primera división.
 
-There are some nicknames that are part of the team culture: Universidad de Chile is also known as "La U" or "El Bulla". Colo-Colo is also known as "Los Albos" or "El Cacique". There are some insulting nicknames: Colo-Colo fans are referred as "Las foxs", while Universidad de Chile fans are referred as "Las Madres".
+Hay algunos apodos que son parte de la cultura del equipo: Universidad de Chile también es conocida como "La U" o "El Bulla". Colo-Colo también es conocido como "Los Albos" o "El Cacique". Hay algunos apodos insultantes: a los hinchas de Colo-Colo se les llama "Las zorras", mientras que a los hinchas de Universidad de Chile se les llama "Las Madres".
