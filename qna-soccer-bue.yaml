@@ -95,6 +95,6 @@ document_outline: |
   Hechos sobre Boca Juniors y River Plate
 document:
   repo: https://github.com/rfrht/instructlab-demo.git
-  commit: 390d1d41b0f67cd4542b542fe723d58864d01880
+  commit: 60a753d3fbf3618f57182d24092ce57a6480c4b0
   patterns:
     - facts-soccer-bue.md
