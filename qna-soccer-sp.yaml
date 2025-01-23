@@ -103,6 +103,6 @@ document_outline: |
   Dados sobre os times de futebol de São Paulo
 document:
   repo: https://github.com/rfrht/instructlab-demo.git
-  commit: af44fb43912ea092324854f0c4a84120b0b1f15a
+  commit: e75b93dcbc4d617c3466cc18733f13077852da9d
   patterns:
     - facts-soccer-sp.md
