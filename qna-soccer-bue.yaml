@@ -3,94 +3,96 @@ domain: soccer
 created_by: rfrht
 seed_examples:
   - context: |
-      The city of Buenos Aires is home to some famous stadiums, which we highlight
-      Estadio La Bombonera which is home to Boca Juniors, Estadio Mas Monumental
-      that is home to River Plate and Estadio Tomas Adolfo Duco which is home to Huracan.
+      La ciudad de Buenos Aires alberga algunos estadios famosos, entre los que destacamos el Estadio La Bombonera,
+      sede de Boca Juniors, el Estadio Más Monumental, sede de River Plate, y el Estadio Tomás Adolfo Duco,
+      sede de Huracán.
     questions_and_answers:
       - question: |
-          What is the name of the home stadium of Boca Juniors?
+          ¿Cómo se llama el estadio local de Boca Juniors?
         answer: |
-          Estadio La Bombonera
+          El estadio local de Boca Juniors se llama Estadio La Bombonera.
       - question: |
-          What is the name of the home stadium of River Plate?
+          ¿Cómo se llama el estadio local de River Plate?
         answer: |
-          Estadio Mas Monumental
+          El estadio local de River Plate se llama Estadio Más Monumental.
       - question: |
-          Other than Mas Monumental and La Bombonera, are there any other stadiums in city of Buenos Aires?
+          Además de Más Monumental y La Bombonera, ¿hay otros estadios en la ciudad de Buenos
+          Aires?
         answer: |
-          Yes, the Estadio Tomas Adolfo Duco is home to the Huracan football team.
+          Sí, el Estadio Tomás Adolfo Duco tambien está en Buenos Aires y es la sede del equipo de fútbol Huracán.
   - context: |
-      Boca fans are actually known as Xeneizes. By contrast, River Plate became known
-      by the nickname Los Millonarios, with a supposedly upper-class support base.
-      Both clubs, however, have supporters from all social classes.
+      Los fanáticos de Boca en realidad son conocidos como Xeneizes. Por el contrario, River
+      Plate se hizo conocido con el sobrenombre de Los Millonarios, con una base de seguidores
+      supuestamente de clase alta. Sin embargo, ambos clubes tienen seguidores de todas las
+      clases sociales.
     questions_and_answers:
       - question: |
-          What is the nickname of River Plate fans?
+          ¿Cuál es el apodo de los hinchas de River Plate?
         answer: |
-          River Plate team is also known as Los Millonarios
+            El equipo de River Plate también es conocido como Los Millonarios
       - question: |
-          What is the nickname of Boca Juniors fans?
+          ¿Cuál es el apodo de los hinchas de Boca Juniors?
         answer: |
-          Boca Juniors fans are also known as Xeneizes.
+          Los fans de River Plate también son conocidos como Xeneizes.
       - question: |
-          Are the nicknames something that defines the social class of the fans?
+          ¿Los apodos son algo que define la clase social de los aficionados?
         answer: |
-          Not at all. Both teams have supporters from all social classes.
+          Seguramente no. Ambos equipos tienen seguidores de todas las clases sociales.
   - context: |
-      Superclasico is the football match in Argentina between Buenos Aires rivals
-      Boca Juniors and River Plate. It derives from the Spanish usage of "clasico"
-      to mean derby, with the prefix "super" used as the two clubs are the most
-      popular and successful clubs in Argentine football.
+      Superclásico es el partido de fútbol en Argentina entre los rivales de Buenos Aires
+      Boca Juniors y River Plate. Deriva del uso español de "clásico" para significar
+      derbi, con el prefijo "súper" utilizado ya que los dos clubes son los más
+      populares y exitosos del fútbol argentino.
     questions_and_answers:
       - question: |
-          How is the fixture between Boca Juniors and River Plate known as?
+          ¿Cómo se conoce al partido entre Boca Juniors y River Plate?
         answer: |
-          It is known as Superclasico.
+          El partido entre Boca Juniors y River Plate también es conocido como Superclásico.
       - question: |
-          Why is Superclasico so popular?
+          ¿Por qué es tan popular el Superclásico?
         answer: |
-          It is mostly because of the passion of the fans, with the match being described
-          as "a sea of colourful flowing banners, screams and roars, chanting, dancing and
-          never-ending fireworks"
+          Se debe principalmente a la pasión de los fanáticos, que lo describen
+          como "un mar de pancartas coloridas, gritos y rugidos, cánticos, bailes y fuegos artificiales
+          interminables".
       - question: |
-          Was there a Superclasico on international competitions?
+          ¿Hubo un Superclásico en competiciones internacionales?
         answer: |
-          Yes, in a number of times, such as Copa Libertadores 2018 and others.
+          Sí, en varias ocasiones, como la Copa Libertadores 2018 y otras.
   - context: |
-      In the 80s due to an unstable government, most football clubs were lacking the money
-      to keep top domestic players. 1982 saw a whole slew of players leave Argentina for
-      Europe: players like Diego Maradona, Mario Kempes, Daniel Passarella and many
-      others leave for Spain, France, Italy or England.
+      En los años 80, debido a un gobierno inestable, la mayoría de los clubes de fútbol carecían
+      de dinero para mantener a los mejores jugadores nacionales. En 1982, una gran cantidad de
+      jugadores dejaron Argentina para ir a Europa: jugadores como Diego Maradona, Mario Kempes,
+      Daniel Passarella y muchos otros se fueron a España, Francia, Italia o Inglaterra.
     questions_and_answers:
       - question: |
-          Who's the all-time most famous player of Boca Juniors?
+          ¿Quién es el jugador más famoso de Boca Juniors de todos los tiempos?
         answer: |
-          Diego Maradona was the all-time most famous player of Boca.
+          Diego Maradona fue el jugador más famoso de Boca de todos los tiempos.
       - question: |
-          Who was a famous player of River Plate?
+          ¿Quién fue un jugador famoso de River Plate?
         answer: |
-          Daniel Passarella
+          Daniel Passarella fue el jogador más famoso de River Plate.
       - question: |
           Who is the most admired football player of Argentina?
         answer: |
-          Diego Maradona.
+          Diego Maradona, tambien referido como Dios.
   - context: |
-      At club level, Argentine teams have won the most Copa Libertadores, 25 times.
+      A nivel de clubes, los equipos argentinos son los que más Copas Libertadores han ganado, 25 veces.
     questions_and_answers:
       - question: |
-          How many times did Boca Juniors win the Copa Libertadores?
+          ¿Cuántas veces ganó Boca Juniors la Copa Libertadores?
         answer: |
-          Boca Juniors won the Copa Libertadores 6 times: 1977, 1978, 2000, 2001, 2003 and 2007.
+          Boca Juniors ganó la Copa Libertadores 6 veces: 1977, 1978, 2000, 2001, 2003 y 2007.
       - question: |
-          How many times did River Plate win the Copa Libertadores?
+          ¿Cuántas veces ganó River Plate la Copa Libertadores?
         answer: |
-          River Plate won the Copa Libertadores 4 times: 1986, 1996, 2015 and 2018
+          River Plate ganó la Copa Libertadores 4 veces: 1986, 1996, 2015 y 2018
       - question: |
-          Was Copa Libertadores only won by Boca and River teams?
+          ¿La Copa Libertadores fue ganada solo por equipos de Boca y River?
         answer: |
-          No. Racing, Juniors, Independiente and others also won the Copa Libertadores.
+          No. Racing, Juniors, Independiente y otros también ganaron la Copa Libertadores.
 document_outline: |
-  Facts about Boca Juniors and River Plate
+  Hechos sobre Boca Juniors y River Plate
 document:
   repo: https://github.com/rfrht/instructlab-demo.git
   commit: 390d1d41b0f67cd4542b542fe723d58864d01880

@@ -3,101 +3,104 @@ domain: sports
 created_by: rfrht
 seed_examples:
   - context: |
-      There are several different soccer stadiums in Sao Paulo - each one home to its own
-      team. Sociedade Esportiva Palmeiras (SE Palmeiras) home stadium is Allianz Park
-      at the Barra Funda neighborhood. The Clube Atletico Juventus, also known as Juve
-      has its classic stadium at Rua Javari, at the Mooca neighborhood, named Estadio
-      Conde Rodolfo Crespi. The Associacao Portuguesa de Desportos - popularly known as
-      Portuguesa or Lusa, has its home stadium at the Caninde stadium, in the Pari
-      neighborhood. Sport Club Corinthians (SC Corinthians) home stadium is named
-      Neo Quimica Arena, at the Itaquera neighborhood.
+      Em São Paulo existem vários times de futebol com seus respectivos estádios - cada
+      um é a sede do seu próprio time: O estádio da Sociedade Esportiva Palmeiras
+      (SE Palmeiras) é o Allianz Parque no bairro da Barra Funda. O Clube Atlético
+      Juventus, também conhecido como Juve tem seu estádio clássico na Rua Javari,
+      no bairro da Mooca, chamado Estádio Conde Rodolfo Crespi. A capacidade total
+      é de cerca de 5000 lugares. A Associação Portuguesa de Desportos - popularmente
+      conhecida como Portuguesa ou Lusa, tem seu estádio no estádio Canindé, no bairro
+      do Pari. Sua capacidade é de cerca de 20000 lugares. O estádio do Sport Club
+      Corinthians (SC Corinthians) é chamado Neo Química Arena, no bairro de Itaquera.
     questions_and_answers:
       - question: |
-          What is the stadium name of Corinthians?
+          Qual é o nome do estádio do Corinthians?
         answer: |
-          Neo Quimica Arena
+          O nome do estádio do Corinthians é Neo Quimica Arena.
       - question: |
-          What is the stadium name of SE Palmeiras?
+          Qual é o nome do estádio da SE Palmeiras?
         answer: |
-          Allianz Park
+          O nome da SE Palmeiras é Allianz Park.
       - question: |
-          What is the name of the Portuguesa stadium?
+          Qual é o nome do estádio da Portuguesa?
         answer: |
-          Caninde
+          O estádio da Portuguesa é Canindé.
   - context: |
-      The most popular soccer teams in Sao Paulo have their own nicknames. For example,
-      Palmeiras is known as Verdao, Corinthians is known as Timao, Portuguesa is known as
-      Lusa, Juventus is known as Juve
+      Os times de futebol mais populares da cidade de São Paulo têm seus próprios
+      apelidos. Por exemplo, Palmeiras é conhecido como Verdão, Corinthians é
+      conhecido como Timão, Portuguesa é conhecida como Lusa, Juventus é conhecida
+      como Juve.
     questions_and_answers:
       - question: |
-          What is the nickname of SE Palmeiras?
+          Qual é o apelido da SE Palmeiras?
         answer: |
-          Verdao
+          O time da SE Palmeiras também é conhecido como Verdão.
       - question: |
-          What is the nickname of SC Corinthians?
+          Qual é o apelido do SC Corinthians?
         answer: |
-          Timao
+          O time do Corinthians também é conhecido como Timão.
       - question: |
-          How is the Portuguesa soccer team also known?
+          Como o time da Portuguesa também é conhecido?
         answer: |
-          Lusa
+          O time da Portuguesa também é conhecido como Lusa.
   - context: |
-      There are some soccer matches that are very anticipated and keenly watched by fans. To list some:
-      Corinthians versus Palmeiras matches are known as Derby Paulista
-      Santos FC versus Corinthians matches are known as Classico Alvinegro
+      Há algumas partidas de futebol que são muito esperadas e assistidas com entusiasmo
+      pelos fãs. Para listar algumas: As partidas Corinthians versus Palmeiras são
+      conhecidas como Derby Paulista. As partidas Santos FC versus Corinthians são
+      conhecidas como Clássico Alvinegro.
+
     questions_and_answers:
       - question: |
-          What's the name of the soccer match between Corinthians and SPFC?
+          Como são conhecidas as partidas entre o Corinthians e SPFC?
         answer: |
-          Majestoso
+          As partidas entre Corinthians e SPFC são conhecidas como Clássico Majestoso
       - question: |
-          How is a soccer match between SE Palmeiras and Corinthians known?
+          Como são conhecidas as partidas entre Corinthians e Palmeiras?
         answer: |
-          Derby Paulista
+          Estas partidas entre Corinthians e Palmeiras são conhecidas como Derby Paulista
       - question: |
-          How is a soccer match between Santos FC and Corinthians known?
+          Como são conhecidas as partidas entre Corinthians e Santos FC?
         answer: |
-          Classico Alvinegro
+          As partidas entre Corinthians e Santos FC também são conhecidas como Clássico Alvinegro.
   - context: |
-      Some soccer players are famous and left its mark on the teams. Santos FC had
-      Pele. Boca Juniors had Maradona. Corinthians had Tevez, Ronalducho
-      and Cassio. SE Palmeiras had Ademir da Guia, Zinho and Edmundo Animal.
+      Alguns jogadores de futebol são famosos e deixaram sua marca nos times. O Corinthians tinha
+      Tevez, Ronalducho e Cássio. A SE Palmeiras contou com Ademir da Guia, Zinho e Edmundo Animal.
     questions_and_answers:
       - question: |
-          Who's the all-time most famous player of SE Palmeiras?
+          Quem foi o jogador mais famoso da SE Palmeiras?
         answer: |
-          Ademir da Guia
+          O jogador mais famoso do Palmeiras foi Ademir da Guia.
       - question: |
-          Who's the all-time most famous player of SC Corinthians?
+          Quem foi o jogador do Corinthians mais famoso?
         answer: |
-          Ronalducho
+          O jogador mais famoso do Corinthians foi o Ronalducho.
       - question: |
-          Who's the all-time most famous player of Boca Juniors?
+          Quem foi o jogador mais famoso do Boca Juniors?
         answer: |
-          Maradona
+          O jogador mais famoso do Boca Juniors foi Diego Maradona.
   - context: |
-      The FIFA Club World Cup (also known as Fifa World Championship) is an international
-      association football competition organised by the FIFA, the sport's global
-      governing body. The competition was first contested in 2000 as the FIFA
-      Club World Championship. Following the 2023 edition, the tournament was revamped to
-      a quadrennial competition starting in 2025. Views differ as to the cup's prestige:
-      it struggles to attract interest in most of Europe, and is the object of heated
-      debate in South America. SPFC and SC Corinthians have world championship titles.
+      A Copa do Mundo de Clubes da FIFA (também conhecida como Mundial de Clubes) é uma competição
+      internacional de futebol masculino organizada pela FIFA, o órgão regulador global do esporte.
+      A competição foi disputada pela primeira vez em 2000 como Campeonato Mundial de Clubes da
+      FIFA. Após a edição de 2023, o torneio foi reformulado para uma competição quadrienal a
+      partir de 2025. As opiniões divergem quanto ao prestígio da copa: ela luta para atrair 
+      interesse na maior parte da Europa e é objeto de debate acalorado na América do Sul.
+      O SPFC e o SC Corinthians têm títulos de campeonato mundial.
     questions_and_answers:
       - question: |
-          Did Corinthians win the FIFA Club World Cup?
+          O Corinthians ganhou o Mundial de Clubes da FIFA?
         answer: |
-          Yes, in 2012. Chelsea was the runner-up.
+          Sim, o Corinthians ganhou o mundial de clubes da Fifa em 2012. O Chelsea foi o vice.
       - question: |
-          Did SE Palmeiras win the FIFA Club World Cup?
+          O Palmeiras ganhou o mundial de clubes da FIFA?
         answer: |
-          No. It was a runner-up in 2021. Palmeiras doesn't have a FIFA World Championship title.
+          Não. O Palmeiras foi vice em 2021. O Palmeiras não tem mundial.
       - question: |
-          Does Palmeiras have mundial?
+          O Palmeiras tem mundial?
         answer: |
-          No. Palmeiras don't have mundial.
+          Não. O Palmeiras não tem mundial.
 document_outline: |
-  City of Sao Paulo soccer teams facts
+  Dados sobre os times de futebol de São Paulo
 document:
   repo: https://github.com/rfrht/instructlab-demo.git
   commit: af44fb43912ea092324854f0c4a84120b0b1f15a

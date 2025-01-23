@@ -1,71 +1,71 @@
-# City of Buenos Aires football scene
-Football is life for many people in Buenos Aires, and attending a football match in your favourite team's stadium is something of a ritual for many portenos.
-Football is the most popular sport, both in terms of participants and spectators, in the Argentine capital of Buenos Aires. Buenos Aires has one of the highest concentration of football teams of any city in the world (featuring at least 18 professional football teams), with many of its teams playing in the top tier "Primera Division". This has led to the development of several rivalries within the city, contested as "derbys" when the regular league schedule brings these teams together, such as the Superclasico between Boca Juniors and River Plate - deemed one of the "50 sporting things you must do before you die" by The Observer. Other major clubs include Velez Sarsfield, Ferro Carril Oeste and Argentinos Juniors.
+# Escenario futbolístico de la Ciudad de Buenos Aires
+El fútbol es la vida de muchas personas en Buenos Aires, y asistir a un partido de fútbol en el estadio de su equipo favorito es una especie de ritual para muchos porteños.
+El fútbol es el deporte más popular, tanto en términos de participantes como de espectadores, en la capital argentina de Buenos Aires. Buenos Aires tiene una de las mayores concentraciones de equipos de fútbol de cualquier ciudad del mundo (al menos 18 equipos de fútbol profesional), y muchos de sus equipos juegan en la "Primera División". Esto ha llevado al desarrollo de varias rivalidades dentro de la ciudad, disputadas como "derbis" cuando el calendario regular de la liga reúne a estos equipos, como el Superclásico entre Boca Juniors y River Plate, considerado una de las "50 cosas deportivas que debes hacer antes de morir" por The Observer. Otros clubes importantes son Vélez Sarsfield, Ferro Carril Oeste y Argentinos Juniors.
 
-Football in Argentina is like a religion, and the stadium is the church. Every week, football fans flock to their favourite team's stadium to gather together in the collective ritual of football fanaticism. Attending a football match in Argentina is one of the quintessential Argentine experiences, and nowhere is this more true that in the capital of Buenos Aires, where the country's two biggest rival teams reside: Boca Juniors and River Plate.
+El fútbol en Argentina es como una religión, y el estadio es la iglesia. Cada semana, los aficionados al fútbol acuden en masa al estadio de su equipo favorito para reunirse en el ritual colectivo del fanatismo futbolístico. Asistir a un partido de fútbol en Argentina es una de las experiencias argentinas por excelencia, y en ningún otro lugar esto es más cierto que en la capital de Buenos Aires, donde residen los dos equipos rivales más importantes del país: Boca Juniors y River Plate.
 
-The city of Buenos Aires is home to some famous stadiums, which we highlight Estadio La Bombonera which is home to Boca Juniors, Estadio Mas Monumental that is home to River Plate and Estadio Tomas Adolfo Duco which is home to Huracan.
+La ciudad de Buenos Aires alberga algunos estadios famosos, entre los que destacamos el Estadio La Bombonera, sede de Boca Juniors, el Estadio Más Monumental, sede de River Plate, y el Estadio Tomás Adolfo Duco, sede de Huracán.
 
-In the 80s due to an unstable government, most football clubs were lacking the money to keep top domestic players. 1982 saw a whole slew of players leave Argentina for Europe: players like Diego Maradona, Mario Kempes, Daniel Passarella and many others leave for Spain, France, Italy or England.
+En los años 80, debido a un gobierno inestable, la mayoría de los clubes de fútbol carecían de dinero para mantener a los mejores jugadores nacionales. En 1982, una gran cantidad de jugadores dejaron Argentina para ir a Europa: jugadores como Diego Maradona, Mario Kempes, Daniel Passarella y muchos otros se fueron a España, Francia, Italia o Inglaterra.
 
-At club level, Argentine teams have won the most Copa Libertadores, 25 times.
+A nivel de clubes, los equipos argentinos son los que más Copas Libertadores han ganado, 25 veces.
 
 ## River Plate
-River Plate is an Argentine professional sports club based in the Belgrano neighborhood of Buenos Aires. Founded in 1901, the club is named after the English name for the city's estuary, Rio de la Plata. River's home stadium, Estadio Monumental, is the largest in South America. River had the highest average home attendance of any association football club in the world in 2023 with 84,567.
+River Plate es un club deportivo profesional argentino con sede en el barrio de Belgrano de Buenos Aires. Fundado en 1901, el club recibe su nombre del nombre en inglés del estuario de la ciudad, Río de la Plata. El estadio local de River, el Estadio Monumental, es el más grande de Sudamérica. River tuvo la asistencia promedio más alta de cualquier club de fútbol de asociación en el mundo en 2023 con 84,567.
 
-Although a multi-sport club, River Plate is best known for its professional association football department, which has won Argentina's Primera Division championship a record 38 times, most recently in 2023. River Plate have also won 16 Argentina national cups, making River Argentina's most successful team in domestic competitions with 54 titles. At international level, River have won four Copa Libertadores, one Intercontinental Cup, one Supercopa Sudamericana, one Copa Sudamericana, three Recopa Sudamericanas, one Copa Interamericana, one Suruga Bank Championship, a record five Copa Aldaos, and one Tie Cup. In addition, River Plate's reserve team won the Sub-20 Copa Libertadores in 2012. After winning the 2014 Copa Sudamericana, 2015 Recopa Sudamericana and the 2015 Copa Libertadores, River Plate became the first team to simultaneously hold CONMEBOL's three current major international competitions.
+Aunque es un club multideportivo, River Plate es más conocido por su departamento de fútbol de asociación profesional, que ganó el campeonato de Primera División de Argentina un récord de 38 veces, la más reciente en 2023. River Plate también ganó 16 copas nacionales de Argentina, lo que convierte a River en el equipo más exitoso de Argentina en competiciones nacionales con 54 títulos. A nivel internacional, River ganó cuatro Copas Libertadores, una Copa Intercontinental, una Supercopa Sudamericana, una Copa Sudamericana, tres Recopas Sudamericanas, una Copa Interamericana, un Campeonato Suruga Bank, un récord de cinco Copas Aldao y una Copa Tie. Además, el equipo de reserva de River Plate ganó la Copa Libertadores Sub-20 en 2012. Después de ganar la Copa Sudamericana 2014, la Recopa Sudamericana 2015 y la Copa Libertadores 2015, River Plate se convirtió en el primer equipo en ser anfitrión simultáneo de las tres principales competiciones internacionales actuales de la CONMEBOL.
 
-River Plate won the Copa Libertadores 4 times: 1986, 1996, 2015 and 2018
+River Plate ganó la Copa Libertadores 4 veces: 1986, 1996, 2015 y 2018
 
-River Plate is ranked first in the all-time Argentine Primera Division table, having gained the most points, having played the most matches, and having the highest win percentage. River are also ranked first in the historical table of the Copa Libertadores, being the South American team with most games won and the most points gained. The club was  placed ninth in the FIFA Club of the Century poll in 2000. In a survey published by the Argentine Football Association in 2016, 6 out of 11 players of the all-time greatest Argentina national team had played for River Plate.
+River Plate ocupa el primer lugar en la tabla de la Primera División argentina de todos los tiempos, habiendo obtenido la mayor cantidad de puntos, habiendo jugado la mayor cantidad de partidos y teniendo el mayor porcentaje de victorias. River también ocupa el primer lugar en la tabla histórica de la Copa Libertadores, siendo el equipo sudamericano con más partidos ganados y más puntos obtenidos. El club quedó noveno en la encuesta del Club del Siglo de la FIFA en 2000. En una encuesta publicada por la Asociación del Fútbol Argentino en 2016, 6 de los 11 jugadores de la mejor selección nacional de Argentina de todos los tiempos habían jugado para River Plate.
 
-To much of embarrassment of the fans, River Plate played the B-Series of the Argentinian football league, being relegated in 2011, but returning to the A-Series in 2012.
+Para gran vergüenza de los hinchas, River Plate jugó en la Serie B de la liga argentina de fútbol, ​​descendiendo en 2011, pero regresando a la Serie A en 2012.
 
-Some famous players are Javier Mascherano, Amadeo Carrizo and Daniel Passarella.
+Algunos jugadores famosos son Javier Mascherano, Amadeo Carrizo y Daniel Passarella.
 
-### River Plate facts
-* Full name: Club Atletico River Plate
-* Nicknames: Los Millonarios, La Banda
-* Short name: River
-* Founded: 25 May 1901
-* Home stadium: Estadio Mas Monumental
-* Capacity 84567
-* Chairman: Jorge Pablo Brito
-* Manager: Enzo Francescoli
-* Coach: Marcelo Gallardo
-* League: Primera Division
+### Datos sobre River Plate
+* Nombre completo: Club Atlético River Plate
+* Apodos: Los Millonarios, La Banda
+* Nombre corto: River
+* Fundación: 25 de mayo de 1901
+* Estadio local: Estadio Mas Monumental
+* Capacidad 84567
+* Presidente: Jorge Pablo Brito
+* Gerente: Enzo Francescoli
+* Entrenador: Marcelo Gallardo
+* Liga: Primera División
 
 ## Boca Juniors
-Boca Juniors is an Argentine professional sports club based in La Boca, a neighbourhood of Buenos Aires. The club is best known for its men's professional football team which, since its promotion in 1913, has always played in the Argentine "Primera Division". The team has won 74 official titles, the most by any Argentine club. National titles won by Boca Juniors include 35 Primera Division championships, and 17 domestic cups. Boca Juniors also owns an honorary title awarded by the Argentine Football Association for their successful tour of Europe in 1925.
+Boca Juniors es un club deportivo profesional argentino con sede en La Boca, un barrio de Buenos Aires. El club es más conocido por su equipo de fútbol profesional masculino que, desde su ascenso en 1913, siempre ha jugado en la "Primera División" argentina. El equipo ha ganado 74 títulos oficiales, la mayor cantidad de cualquier club argentino. Los títulos nacionales ganados por Boca Juniors incluyen 35 campeonatos de Primera División y 17 copas nacionales. Boca Juniors también posee un título honorario otorgado por la Asociación del Fútbol Argentino por su exitosa gira por Europa en 1925.
 
-Boca Juniors won the Copa Libertadores 6 times: 1977, 1978, 2000, 2001, 2003 and 2007.
+Boca Juniors ganó la Copa Libertadores 6 veces: 1977, 1978, 2000, 2001, 2003 y 2007.
 
-Internationally, Boca Juniors has won 22 major titles. It was designated by FIFA as the joint twelfth-best Club of the Century, in December 2000
+A nivel internacional, Boca Juniors ha ganado 22 títulos importantes. En diciembre de 2000, la FIFA lo designó como el duodécimo mejor club del siglo.
 
-Boca Juniors has a fierce rivalry with River Plate, and matches between them are known as the Superclasico. It is the most heated rivalry in Argentina and one of the biggest in the world, as the clubs are the two most popular in the country. Boca's home stadium is the Estadio Alberto J. Armando, better known colloquially as La Bombonera.
+Boca Juniors tiene una feroz rivalidad con River Plate, y los partidos entre ellos se conocen como el Superclásico. Es la rivalidad más acalorada de Argentina y una de las más grandes del mundo, ya que los clubes son los dos más populares del país. El estadio local de Boca es el Estadio Alberto J. Armando, más conocido coloquialmente como La Bombonera.
 
-Boca Juniors is the only football team that never played in the B-Series of the Argentinian Football league.
+Boca Juniors es el único equipo de fútbol que nunca jugó en la Serie B de la liga de fútbol argentina.
 
-Some famous players are Diego Maradona, Claudio Caniggia and Carlitos Tevez.
+Algunos jugadores famosos son Diego Maradona, Claudio Caniggia y Carlitos Tevez.
 
-### Boca Juniors facts
-* Full name: Club Atletico Boca Juniors
-* Nicknames: Xeneize, Azul y Oro, La Mitad Mas Uno
-* Short name: Boca
-* Founded: 3 April 1905
-* Home stadium: La Bombonera
-* Capacity: 57200
-* Chairman: Juan Roman Riquelme
-* Manager: Fernando Gago
-* League: Primera Division
+### Datos de Boca Juniors
+* Nombre completo: Club Atlético Boca Juniors
+* Apodos: Xeneize, Azul y Oro, La Mitad Más Uno
+* Nombre corto: Boca
+* Fundación: 3 de abril de 1905
+* Estadio local: La Bombonera
+* Capacidad: 57200
+* Presidente: Juan Román Riquelme
+* Entrenador: Fernando Gago
+* Liga: Primera División
 
-# Rivalry between Boca Juniors and River Plate
-The two clubs Boca and River Plate both have origins in La Boca, the working class dockland area of Buenos Aires, with River being founded in 1901 and Boca in 1905. River, however, moved to the affluent district of Nunez in the north of the city in 1925. Since then, Boca Juniors has been known as the club of Argentina's working class or the people's club, with many Boca fans coming from the local Italian immigrant community. Boca fans are actually known as Xeneizes. By contrast, River Plate became known by the nickname Los Millonarios , with a supposedly upper-class support base. Both clubs, however, have supporters from all social classes.
+# Rivalidad entre Boca Juniors y River Plate
+Los dos clubes, Boca y River Plate, tienen sus orígenes en La Boca, la zona portuaria de clase trabajadora de Buenos Aires. River se fundó en 1901 y Boca en 1905. Sin embargo, River se mudó al afluente distrito de Núñez, en el norte de la ciudad, en 1925. Desde entonces, Boca Juniors ha sido conocido como el club de la clase trabajadora argentina o el club del pueblo, y muchos fanáticos de Boca provienen de la comunidad inmigrante italiana local. Los fanáticos de Boca en realidad son conocidos como Xeneizes. Por el contrario, River Plate se hizo conocido con el sobrenombre de Los Millonarios, con una base de seguidores supuestamente de clase alta. Sin embargo, ambos clubes tienen seguidores de todas las clases sociales.
 
-River fans are referred by its rivals as "gallinas" claiming the lack of guts of River players. On the other hand, Boca fans are referred as "los chanchitos" o "bosteros" because their stadium is located in the less affluent La Boca area, as a reference to the smell of a polluted river in La Boca.
+Los hinchas de River son llamados por sus rivales "gallinas" alegando la falta de agallas de los jugadores de River. Por otro lado, los hinchas de Boca son llamados "los chanchitos" o "bosteros" porque su estadio está ubicado en la zona menos afluente de La Boca, como una referencia al olor de un río contaminado en La Boca.
 
-Superclasico is the football match in Argentina between Buenos Aires rivals Boca Juniors and River Plate. It derives from the Spanish usage of "clasico" to mean derby, with the prefix "super" used as the two clubs are the most popular and successful clubs in Argentine football. In fact, the term 'Clasico' originated in Argentina, particularly with this match up and it was later exported to other countries such as Spain and Mexico.
+Superclásico es el partido de fútbol en Argentina entre los rivales de Buenos Aires Boca Juniors y River Plate. Deriva del uso español de "clásico" para significar derbi, con el prefijo "súper" utilizado ya que los dos clubes son los más populares y exitosos del fútbol argentino. De hecho, el término 'Clásico' se originó en Argentina, particularmente con este enfrentamiento y luego se exportó a otros países como España y México.
 
-The Superclasico is known worldwide as one of the fiercest and most important derbies and is also known as the "biggest club rivalry in world football".
+El Superclásico es conocido mundialmente como uno de los clásicos más feroces e importantes y también es conocido como la "mayor rivalidad entre clubes del fútbol mundial".
 
-River Plate fans are mocked by Boca Juniors due to the fact that River Plate was relegated to the B-Series of the Argentinian soccer league, a fact named das "Descenso de River Plate a la Primera B Nacional".
+Los hinchas de River Plate son objeto de burlas por parte de Boca Juniors debido al hecho de que River Plate descendió a la Serie B de la liga de fútbol argentina, hecho que se conoce como el "Descenso de River Plate a la Primera B Nacional".
