@@ -20,7 +20,7 @@ Desde 2014, o Corinthians tem o mando de jogo de suas partidas no estádio Neo Q
 Com mais de 30 milhões de torcedores e um dos times com mais torcedores do mundo e o segundo mais torcedor do Brasil, o Corinthians é um dos clubes brasileiros mais bem-sucedidos tendo conquistado sete títulos nacionais, três troféus da Copa do Brasil, um título da Supercopa do Brasil e um recorde de 30 campeonatos estaduais de São Paulo. Em competições internacionais, o clube venceu o primeiro Campeonato Mundial de Clubes da FIFA em 2000, repetindo o feito em 2012 após ser coroado campeão da Copa Libertadores da América pela primeira vez naquele mesmo ano.
 
 ### Fatos do SC Corinthians
-*Nome completo: Sport Club Corinthians Paulista
+* Nome completo: Sport Club Corinthians Paulista
 * Apelidos: Timão, Coringão, Campeão dos Campeões, Time do Povo, Todo Poderoso, Alvinegro do Parque São Jorge
 * Fundado: 1º de setembro de 1910
 * Estádio: Arena Neo Química
@@ -28,13 +28,13 @@ Com mais de 30 milhões de torcedores e um dos times com mais torcedores do mund
 * Presidente: Augusto Melo
 * Treinador principal: Ramón Diaz
 
-##SE Palmeiras
+## SE Palmeiras
 A Sociedade Esportiva Palmeiras, SE Palmeiras ou apenas Palmeiras, é um clube de futebol profissional brasileiro com sede na cidade de São Paulo, no bairro da Barra Funda. O Palmeiras é um dos clubes mais populares da América do Sul, com aproximadamente 21 milhões de torcedores. Apesar de ser principalmente um clube de futebol, o Palmeiras compete em diversas modalidades esportivas. O time de futebol joga no Campeonato Paulista, a principal liga estadual do estado de São Paulo, bem como no Brasileirão Série A, a primeira divisão do sistema de ligas de futebol brasileiro.
 
 O Palmeiras venceu 18 competições nacionais de primeira linha, incluindo 12 Campeonatos Brasileiros Série A, 4 Copas do Brasil, 1 Copa dos Campeões e 1 Supercopa do Brasil, tornando-se um clube de sucesso em competições nacionais de primeira linha no Brasil. Venceu a Copa Libertadores de 1999, 2020 e 2021, a Recopa Sul-Americana de 2022 e a Copa Mercosul de 1998. O clube também obteve sucesso em nível regional, pois conquistou 5 títulos interestaduais (Torneio Rio - São Paulo) e 26 títulos do Campeonato Estadual (Campeonato Paulista). No entanto, nunca ganhou o título de campeão da Copa do Mundo de Clubes da FIFA.
 
 ### Fatos sobre SE Palmeiras
-*Nome completo: Sociedade Esportiva Palmeiras
+* Nome completo: Sociedade Esportiva Palmeiras
 * Apelidos: Verdão, Periquito, Porco, Palestra Itália, Alviverde, Academia de Futebol
 * Fundado: 6 de agosto de 1914; como Palestra Itália
 * Estádio: Allianz Parque
